@@ -1,0 +1,820 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@sentry/remix",
+          "description": "Error and performance monitoring of your Remix apps with Sentry",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:14:37Z",
+            "owner": "getsentry",
+            "repo": "sentry-javascript",
+            "stars": 8717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-utils",
+          "description": "A set of utility functions and types to use with Remix.run",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T10:02:49Z",
+            "owner": "sergiodxa",
+            "repo": "remix-utils",
+            "stars": 2370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-auth",
+          "description": "Simple Authentication for Remix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:35:41Z",
+            "owner": "sergiodxa",
+            "repo": "remix-auth",
+            "stars": 2205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-validated-form",
+          "description": "A ValidatedForm component and helpers for easy client and server side form validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T16:57:09Z",
+            "owner": "airjp73",
+            "repo": "rvf",
+            "stars": 970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "domain-functions",
+          "description": "Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-30T00:59:30Z",
+            "owner": "seasonedcc",
+            "repo": "composable-functions",
+            "stars": 742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-i18next",
+          "description": "The easiest way to translate your Remix apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T05:23:17Z",
+            "owner": "sergiodxa",
+            "repo": "remix-i18next",
+            "stars": 715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-pwa",
+          "description": "A package to integrate PWA features into Remix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-11T08:27:55Z",
+            "owner": "remix-pwa",
+            "repo": "remix-pwa",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-forms",
+          "description": "Magically create forms + actions in Remix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-15T03:02:28Z",
+            "owner": "seasonedcc",
+            "repo": "remix-forms",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-routes",
+          "description": "Typesafe routing for your Remix apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-19T12:22:19Z",
+            "owner": "yesmeck",
+            "repo": "safe-routes",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-image",
+          "description": "A React component for responsive images in Remix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-22T11:03:24Z",
+            "owner": "Josh-McFarlin",
+            "repo": "remix-image",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-params-helper",
+          "description": "Helpers that make it simple to use Zod with URLSearchParams, FormData, and Remix params object",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-24T16:29:33Z",
+            "owner": "kiliman",
+            "repo": "remix-params-helper",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-themes",
+          "description": "An abstraction for themes in your Remix app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-26T13:35:32Z",
+            "owner": "abereghici",
+            "repo": "remix-themes",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-seo",
+          "description": "A package for easily managing SEO meta and link tags in Remix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-12T02:08:29Z",
+            "owner": "chaance",
+            "repo": "remix-seo",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-sitemap",
+          "description": "Sitemap generator for Remix applications",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-09-29T16:05:38Z",
+            "owner": "fedeya",
+            "repo": "remix-sitemap",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-auth-webauthn",
+          "description": "A Remix Auth strategy for signing in with Web Authentication passkeys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-03T16:27:33Z",
+            "owner": "alexanderson1993",
+            "repo": "remix-auth-webauthn",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-tailwind",
+          "description": "Use TailwindCSS with Remix without an extra build step",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-03-15T20:24:37Z",
+            "owner": "itsMapleLeaf",
+            "repo": "remix-tailwind",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "superjson-remix",
+          "description": "A solution for Remix that allows you to send binary data from your loader to your React client app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T18:34:23Z",
+            "owner": "donavon",
+            "repo": "superjson-remix",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-etag",
+          "description": "Makes adding an ETag header to a response easy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-23T18:45:31Z",
+            "owner": "donavon",
+            "repo": "remix-etag",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-crash",
+          "description": "Get better insight on why your Remix app crashed during development 💥",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-07-19T19:32:08Z",
+            "owner": "excessivecoding",
+            "repo": "remix-crash",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-middleware",
+          "description": "An express-like middleware system for remix loaders and actions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-13T21:02:04Z",
+            "owner": "neurosnap",
+            "repo": "remix-middleware",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-strong-routes",
+          "description": "Strongly typed route exports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-04T22:24:48Z",
+            "owner": "tatemz",
+            "repo": "remix-strong-routes",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@aeorank/remix",
+          "description": "Scores your Remix app's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:50:53Z",
+            "owner": "vinpatel",
+            "repo": "aeorank",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-progressbar",
+          "description": "Progress Bar for Remix Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-21T18:35:15Z",
+            "owner": "dev-afzalansari",
+            "repo": "remix-progressbar",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stripe Stack",
+          "description": "A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM. Deploys to Fly.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T18:37:56Z",
+            "owner": "dev-xo",
+            "repo": "remix-saas",
+            "stars": 1456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "indie-stack",
+          "description": "The Indie Stack: Deployed to a long-running Node.js server with a persistent SQLite database. This stack is great for websites with dynamic data that you control (blogs, marketing, content sites). It's also a perfect, low-complexity bootstrap for MVPs, prototypes, and proof-of-concepts that can later be updated to the Blues stack easily.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-04-28T20:34:01Z",
+            "owner": "remix-run",
+            "repo": "indie-stack",
+            "stars": 1141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blues-stack",
+          "description": "The Blues Stack: Deployed to the edge (distributed) with a long-running Node.js server and PostgreSQL database. Intended for large and fast production-grade applications serving millions of users.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-04-28T20:35:06Z",
+            "owner": "remix-run",
+            "repo": "blues-stack",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grunge-stack",
+          "description": "The Grunge Stack: Deployed to a serverless function running Node.js with DynamoDB for persistence. Intended for folks who want to deploy a production-grade application on AWS infrastructure serving millions of users.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-04-28T20:34:38Z",
+            "owner": "remix-run",
+            "repo": "grunge-stack",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supa-fly-stack",
+          "description": "The Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-10T14:20:46Z",
+            "owner": "rphlmr",
+            "repo": "supa-fly-stack",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-worker-template",
+          "description": "All-in-one Remix Cloudflare worker template with tailwindcss, cypress, eslint and prettier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-06T22:37:56Z",
+            "owner": "edmundhung",
+            "repo": "remix-cloudflare-template",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kpop-stack",
+          "description": "Create a Remix app with Netlify, Tailwind, TypeScript and more!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T18:00:53Z",
+            "owner": "netlify-templates",
+            "repo": "kpop-stack",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speed-metal-stack",
+          "description": "The Remix Blog Stack for deploying to Fly with MDX, SQLite, testing, linting, formatting, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-13T02:03:02Z",
+            "owner": "Girish21",
+            "repo": "speed-metal-stack",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnb-stack",
+          "description": "The Remix Stack for deploying to Vercel with testing, linting, formatting, structure and mock for 3rd party API integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-19T14:30:49Z",
+            "owner": "robipop22",
+            "repo": "dnb-stack",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-edgedb",
+          "description": "Remix ft. EdgeDB, Tailwind, Fly, and cookie-based authorization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-03T03:32:00Z",
+            "owner": "geldata",
+            "repo": "remix",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure-remix-stack",
+          "description": "A remix stack template for running a remix app on Azure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2023-03-29T06:12:32Z",
+            "owner": "aaronpowell",
+            "repo": "azure-remix-stack",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-chop-suey-stack",
+          "description": "Remix+EdgeDB+Tailwind+Fly.io=🖤",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-24T08:07:55Z",
+            "owner": "jaykaycodes",
+            "repo": "remix-chop-suey-stack",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rockspec-stack",
+          "description": "A fully configurable & customizable Remix PWA stack.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-01-27T15:12:17Z",
+            "owner": "remix-pwa",
+            "repo": "rockspec-stack",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cool-stack",
+          "description": "Template repository integrating Remix & Directus into a full-stack monorepo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:37:58Z",
+            "owner": "tdsoftpl",
+            "repo": "cool-stack",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Stacks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "remix-starter-kit",
+          "description": "Remix ft. Supabase(Auth, CRUD, Storage) with other essentials - TailwindCSS, DaisyUI, ESLint, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-09T16:15:18Z",
+            "owner": "one-aalam",
+            "repo": "remix-starter-kit",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-tailwind-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2023-03-14T16:54:47Z",
+            "owner": "mcansh",
+            "repo": "remix-tailwind-starter",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-azure-template",
+          "description": "Remix app deployed to Azure Functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-21T04:52:13Z",
+            "owner": "danielgary",
+            "repo": "remix-azure-template",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-auth-layouts-example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-10-27T23:16:14Z",
+            "owner": "jacob-ebey",
+            "repo": "remix-auth-layouts-example",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-edge-kit",
+          "description": "Remix ft. Prisma(Railway.app/Planetscale)/FaunaDB/Supabase and other essentials but designed for Cloudflare workers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-28T18:28:01Z",
+            "owner": "one-aalam",
+            "repo": "remix-edge-kit",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-css-modules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-10-12T03:30:42Z",
+            "owner": "jacob-ebey",
+            "repo": "remix-css-modules",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-nested-layouts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-01T16:32:12Z",
+            "owner": "brookslybrand",
+            "repo": "remix-nested-layouts",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remix-on-netlify",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-05-25T10:24:19Z",
+            "owner": "ascorbic",
+            "repo": "remix-on-netlify",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kentcdodds.com",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:46:28Z",
+            "owner": "kentcdodds",
+            "repo": "kentcdodds.com",
+            "stars": 2493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sergiodxa/personal-site",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-08-15T10:05:35Z",
+            "owner": "sergiodxa",
+            "repo": "personal-site",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Remix Routing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-11T13:26:22Z",
+            "owner": "dilums",
+            "repo": "interactive-remix-routing",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Runnable",
+          "description": "Low-code admin workflows, built on Remix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:37:00Z",
+            "owner": "kineticio",
+            "repo": "runnable",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "realworld-remix.run",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-16T06:53:08Z",
+            "owner": "BenoitAverty",
+            "repo": "realworld-remix.run",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snkrs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-26T19:15:17Z",
+            "owner": "mcansh",
+            "repo": "snkrs",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sergiodxa/collected-remix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T03:11:03Z",
+            "owner": "sergiodxa",
+            "repo": "collected-remix",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remix Ink",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-14T08:21:55Z",
+            "owner": "one-aalam",
+            "repo": "remix-ink",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jotyy/remix-portfolio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-14T08:01:47Z",
+            "owner": "jotyy",
+            "repo": "remix-portfolio",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "camchenry-remix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T03:52:10Z",
+            "owner": "camchenry",
+            "repo": "camchenry-remix",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hova-labs-remix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-06-21T21:15:50Z",
+            "owner": "HovaLabs",
+            "repo": "hova-labs-remix",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Example Apps"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T02:46:03.689Z",
+    "original_repository": "m5r/awesome-remix",
+    "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",
+    "enhanced_repository": "enhansome/enhansome-remix",
+    "enhanced_repository_description": null,
+    "title": "awesome-remix with stars"
+  }
+}
