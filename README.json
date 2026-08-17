@@ -42,7 +42,7 @@
             "last_commit": "2026-08-10T23:35:41Z",
             "owner": "sergiodxa",
             "repo": "remix-auth",
-            "stars": 2205
+            "stars": 2204
           }
         },
         {
@@ -305,7 +305,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T14:40:22Z",
+            "last_commit": "2026-08-16T14:40:43Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 12
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T01:57:16.924Z",
+    "last_updated": "2026-08-17T01:55:18.853Z",
     "original_repository": "m5r/awesome-remix",
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",
     "enhanced_repository": "enhansome/enhansome-remix",
