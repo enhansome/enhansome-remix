@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:35:47Z",
+            "last_commit": "2026-08-19T12:39:36Z",
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8719
+            "stars": 8720
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 363995566,
             "language": "TypeScript",
             "last_commit": "2026-08-01T10:02:49Z",
             "owner": "sergiodxa",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388624643,
             "language": "TypeScript",
             "last_commit": "2026-08-17T23:35:32Z",
             "owner": "sergiodxa",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 431357516,
             "language": "TypeScript",
             "last_commit": "2026-08-07T16:57:09Z",
             "owner": "airjp73",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469882687,
             "language": "TypeScript",
             "last_commit": "2025-05-30T00:59:30Z",
             "owner": "seasonedcc",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 422046848,
             "language": "TypeScript",
             "last_commit": "2026-08-17T05:17:08Z",
             "owner": "sergiodxa",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 459534141,
             "language": "TypeScript",
             "last_commit": "2024-08-11T08:27:55Z",
             "owner": "remix-pwa",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 463116412,
             "language": "TypeScript",
             "last_commit": "2026-04-15T03:02:28Z",
             "owner": "seasonedcc",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437561521,
             "language": "TypeScript",
             "last_commit": "2026-06-19T12:22:19Z",
             "owner": "yesmeck",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449976662,
             "language": "TypeScript",
             "last_commit": "2023-08-22T11:03:24Z",
             "owner": "Josh-McFarlin",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 434298930,
             "language": "TypeScript",
             "last_commit": "2023-11-24T16:29:33Z",
             "owner": "kiliman",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439638854,
             "language": "TypeScript",
             "last_commit": "2025-06-26T13:35:32Z",
             "owner": "abereghici",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 426117208,
             "language": "TypeScript",
             "last_commit": "2023-04-12T02:08:29Z",
             "owner": "chaance",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 613651014,
             "language": "TypeScript",
             "last_commit": "2025-09-29T16:05:38Z",
             "owner": "fedeya",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620084606,
             "language": "TypeScript",
             "last_commit": "2025-01-03T16:27:33Z",
             "owner": "alexanderson1993",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 431215247,
             "language": "TypeScript",
             "last_commit": "2024-03-15T20:24:37Z",
             "owner": "itsMapleLeaf",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469443893,
             "language": "TypeScript",
             "last_commit": "2023-02-04T18:34:23Z",
             "owner": "donavon",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472270173,
             "language": "HTML",
             "last_commit": "2023-01-23T18:45:31Z",
             "owner": "donavon",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 455344827,
             "language": "TypeScript",
             "last_commit": "2022-07-19T19:32:08Z",
             "owner": "excessivecoding",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449932254,
             "language": "TypeScript",
             "last_commit": "2022-02-13T21:02:04Z",
             "owner": "neurosnap",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 630696018,
             "language": "TypeScript",
             "last_commit": "2024-03-04T22:24:48Z",
             "owner": "tatemz",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182092885,
             "language": "TypeScript",
             "last_commit": "2026-08-18T14:45:37Z",
             "owner": "vinpatel",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579563651,
             "language": "TypeScript",
             "last_commit": "2022-12-21T18:35:15Z",
             "owner": "dev-afzalansari",
@@ -329,7 +352,7 @@
       "title": "Packages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535110107,
             "language": "TypeScript",
             "last_commit": "2026-08-01T18:37:56Z",
             "owner": "dev-xo",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 465928257,
             "language": "TypeScript",
             "last_commit": "2025-04-28T20:34:01Z",
             "owner": "remix-run",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 461012689,
             "language": "TypeScript",
             "last_commit": "2025-04-28T20:35:06Z",
             "owner": "remix-run",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 463325363,
             "language": "TypeScript",
             "last_commit": "2025-04-28T20:34:38Z",
             "owner": "remix-run",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473100415,
             "language": "TypeScript",
             "last_commit": "2024-05-10T14:20:46Z",
             "owner": "rphlmr",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398878693,
             "language": "TypeScript",
             "last_commit": "2026-05-06T22:37:56Z",
             "owner": "edmundhung",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470271648,
             "language": "TypeScript",
             "last_commit": "2026-08-17T06:09:21Z",
             "owner": "netlify-templates",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476824624,
             "language": "TypeScript",
             "last_commit": "2022-07-13T02:03:02Z",
             "owner": "Girish21",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 491835491,
             "language": "TypeScript",
             "last_commit": "2025-05-19T14:30:49Z",
             "owner": "robipop22",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 482066451,
             "language": "JavaScript",
             "last_commit": "2022-08-03T03:32:00Z",
             "owner": "geldata",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471218701,
             "language": "Bicep",
             "last_commit": "2023-03-29T06:12:32Z",
             "owner": "aaronpowell",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488832873,
             "language": "TypeScript",
             "last_commit": "2023-01-24T08:07:55Z",
             "owner": "jaykaycodes",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 482290853,
             "language": "TypeScript",
             "last_commit": "2024-01-27T15:12:17Z",
             "owner": "remix-pwa",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523243044,
             "language": "TypeScript",
             "last_commit": "2026-08-18T23:25:59Z",
             "owner": "tdsoftpl",
@@ -531,7 +568,7 @@
       "title": "Stacks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -540,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 431056595,
             "language": "TypeScript",
             "last_commit": "2022-07-09T16:15:18Z",
             "owner": "one-aalam",
@@ -554,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 314279916,
             "language": "CSS",
             "last_commit": "2023-03-14T16:54:47Z",
             "owner": "mcansh",
@@ -568,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 385790890,
             "language": "TypeScript",
             "last_commit": "2022-01-21T04:52:13Z",
             "owner": "danielgary",
@@ -582,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 417260722,
             "language": "TypeScript",
             "last_commit": "2021-10-27T23:16:14Z",
             "owner": "jacob-ebey",
@@ -596,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452761852,
             "language": "TypeScript",
             "last_commit": "2022-01-28T18:28:01Z",
             "owner": "one-aalam",
@@ -610,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 416168372,
             "language": "TypeScript",
             "last_commit": "2021-10-12T03:30:42Z",
             "owner": "jacob-ebey",
@@ -624,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374811633,
             "language": "TypeScript",
             "last_commit": "2021-07-01T16:32:12Z",
             "owner": "brookslybrand",
@@ -638,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370571130,
             "language": "TypeScript",
             "last_commit": "2021-05-25T10:24:19Z",
             "owner": "ascorbic",
@@ -649,7 +694,7 @@
       "title": "Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -658,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320393623,
             "language": "TypeScript",
             "last_commit": "2026-08-17T13:15:02Z",
             "owner": "kentcdodds",
@@ -672,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34244035,
             "language": "TypeScript",
             "last_commit": "2022-08-15T10:05:35Z",
             "owner": "sergiodxa",
@@ -686,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437327942,
             "language": "TypeScript",
             "last_commit": "2023-10-11T13:26:22Z",
             "owner": "dilums",
@@ -700,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539599406,
             "language": "TypeScript",
             "last_commit": "2026-08-18T17:46:02Z",
             "owner": "kineticio",
@@ -714,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320078336,
             "language": "TypeScript",
             "last_commit": "2022-02-16T06:53:08Z",
             "owner": "BenoitAverty",
@@ -728,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263179018,
             "language": "TypeScript",
             "last_commit": "2023-11-26T19:15:17Z",
             "owner": "mcansh",
@@ -742,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433647395,
             "language": "TypeScript",
             "last_commit": "2023-02-04T03:11:03Z",
             "owner": "sergiodxa",
@@ -756,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 454833488,
             "language": "TypeScript",
             "last_commit": "2022-02-14T08:21:55Z",
             "owner": "one-aalam",
@@ -770,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444221289,
             "language": "TypeScript",
             "last_commit": "2023-02-14T08:01:47Z",
             "owner": "jotyy",
@@ -784,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365811346,
             "language": "TypeScript",
             "last_commit": "2026-07-06T03:52:10Z",
             "owner": "camchenry",
@@ -798,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379062884,
             "language": "TypeScript",
             "last_commit": "2021-06-21T21:15:50Z",
             "owner": "HovaLabs",
@@ -810,8 +866,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:53:30.137Z",
+    "last_updated": "2026-08-19T12:48:30.454Z",
     "original_repository": "m5r/awesome-remix",
+    "original_repository_id": 389114082,
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",
     "enhanced_repository": "enhansome/enhansome-remix",
     "enhanced_repository_description": null,
