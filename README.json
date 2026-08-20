@@ -12,7 +12,7 @@
             "archived": false,
             "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:39:36Z",
+            "last_commit": "2026-08-19T23:51:59Z",
             "owner": "getsentry",
             "repo": "sentry-javascript",
             "stars": 8720
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T14:45:37Z",
+            "last_commit": "2026-08-19T14:45:43Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 12
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:48:30.454Z",
+    "last_updated": "2026-08-20T01:51:35.281Z",
     "original_repository": "m5r/awesome-remix",
     "original_repository_id": 389114082,
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",
