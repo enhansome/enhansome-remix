@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T23:51:59Z",
+            "last_commit": "2026-08-21T00:25:51Z",
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8720
+            "stars": 8722
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-17T05:17:08Z",
             "owner": "sergiodxa",
             "repo": "remix-i18next",
-            "stars": 715
+            "stars": 716
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2025-01-03T16:27:33Z",
             "owner": "alexanderson1993",
             "repo": "remix-auth-webauthn",
-            "stars": 91
+            "stars": 90
           }
         },
         {
@@ -327,10 +327,10 @@
             "archived": false,
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T14:45:43Z",
+            "last_commit": "2026-08-20T14:46:27Z",
             "owner": "vinpatel",
             "repo": "aeorank",
-            "stars": 12
+            "stars": 14
           }
         },
         {
@@ -582,7 +582,7 @@
             "last_commit": "2022-07-09T16:15:18Z",
             "owner": "one-aalam",
             "repo": "remix-starter-kit",
-            "stars": 237
+            "stars": 236
           }
         },
         {
@@ -750,7 +750,7 @@
             "archived": false,
             "id": 539599406,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:46:02Z",
+            "last_commit": "2026-08-20T05:14:55Z",
             "owner": "kineticio",
             "repo": "runnable",
             "stars": 88
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:51:35.281Z",
+    "last_updated": "2026-08-21T01:57:43.179Z",
     "original_repository": "m5r/awesome-remix",
     "original_repository_id": 389114082,
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",
