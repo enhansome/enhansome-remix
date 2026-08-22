@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T00:25:51Z",
+            "last_commit": "2026-08-21T21:52:35Z",
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8722
+            "stars": 8723
           }
         },
         {
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T14:46:27Z",
+            "last_commit": "2026-08-21T14:46:23Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 14
@@ -381,7 +381,7 @@
             "last_commit": "2025-04-28T20:34:01Z",
             "owner": "remix-run",
             "repo": "indie-stack",
-            "stars": 1141
+            "stars": 1142
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2025-04-28T20:35:06Z",
             "owner": "remix-run",
             "repo": "blues-stack",
-            "stars": 969
+            "stars": 970
           }
         },
         {
@@ -453,7 +453,7 @@
             "archived": false,
             "id": 470271648,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T06:09:21Z",
+            "last_commit": "2026-08-21T23:24:27Z",
             "owner": "netlify-templates",
             "repo": "kpop-stack",
             "stars": 251
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 320393623,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:15:02Z",
+            "last_commit": "2026-08-21T15:44:00Z",
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
             "stars": 2493
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T01:57:43.179Z",
+    "last_updated": "2026-08-22T01:50:30.747Z",
     "original_repository": "m5r/awesome-remix",
     "original_repository_id": 389114082,
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",
