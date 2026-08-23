@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T21:52:35Z",
+            "last_commit": "2026-08-22T22:58:35Z",
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8723
+            "stars": 8725
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-05-30T00:59:30Z",
             "owner": "seasonedcc",
             "repo": "composable-functions",
-            "stars": 742
+            "stars": 743
           }
         },
         {
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T14:46:23Z",
+            "last_commit": "2026-08-22T14:40:21Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 14
@@ -708,7 +708,7 @@
             "last_commit": "2026-08-21T15:44:00Z",
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
-            "stars": 2493
+            "stars": 2492
           }
         },
         {
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:50:30.747Z",
+    "last_updated": "2026-08-23T01:59:53.509Z",
     "original_repository": "m5r/awesome-remix",
     "original_repository_id": 389114082,
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",

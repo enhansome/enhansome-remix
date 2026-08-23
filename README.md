@@ -14,11 +14,11 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Packages
 
-* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,723 | 🐛 613 | 🌐 TypeScript | 📅 2026-08-21 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
+* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,725 | 🐛 610 | 🌐 TypeScript | 📅 2026-08-22 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
 * [remix-utils](https://github.com/sergiodxa/remix-utils) ⭐ 2,369 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-01 - A set of utility functions and types to use with Remix.run
 * [remix-auth](https://github.com/sergiodxa/remix-auth) ⭐ 2,204 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17 - Simple Authentication for Remix
 * [remix-validated-form](https://github.com/airjp73/remix-validated-form) ⭐ 970 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-07 - A ValidatedForm component and helpers for easy client and server side form validation.
-* [domain-functions](https://github.com/seasonedcc/domain-functions/) ⭐ 742 | 🐛 4 | 🌐 TypeScript | 📅 2025-05-30 - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
+* [domain-functions](https://github.com/seasonedcc/domain-functions/) ⭐ 743 | 🐛 4 | 🌐 TypeScript | 📅 2025-05-30 - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
 * [remix-i18next](https://github.com/sergiodxa/remix-i18next) ⭐ 716 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-17 - The easiest way to translate your Remix apps
 * [remix-pwa](https://github.com/ShafSpecs/remix-pwa) ⭐ 613 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-11 - A package to integrate PWA features into Remix
 * [remix-forms](https://github.com/seasonedcc/remix-forms) ⭐ 515 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-15 - Magically create forms + actions in Remix
@@ -35,7 +35,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 * [remix-crash](https://github.com/xstevenyung/remix-crash) ⚠️ Archived - Get better insight on why your Remix app crashed during development 💥
 * [remix-middleware](https://github.com/neurosnap/remix-middleware) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2022-02-13 - An express-like middleware system for remix loaders and actions
 * [remix-strong-routes](https://github.com/tatemz/remix-strong-routes) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2024-03-04 - Strongly typed route exports.
-* [@aeorank/remix](https://github.com/vinpatel/aeorank/tree/main/packages/remix) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-21 - Scores your Remix app's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/remix](https://github.com/vinpatel/aeorank/tree/main/packages/remix) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-22 - Scores your Remix app's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [remix-progressbar](https://github.com/dev-afzalansari/remix-progressbar) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-21 - Progress Bar for Remix Applications.
 * [remix-paraglidejs](https://inlang.com/m/fnhuwzrx/library-brikev-remix-paraglidejs) - Simple, Tiny, Typesafe i18n for Remix Apps
 
@@ -69,7 +69,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Example Apps
 
-* [kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) ⭐ 2,493 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-21
+* [kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) ⭐ 2,492 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-21
 * [sergiodxa/personal-site](https://github.com/sergiodxa/personal-site) ⚠️ Archived
 * [Interactive Remix Routing](https://github.com/dilums/interactive-remix-routing) ⭐ 94 | 🐛 0 | 🌐 TypeScript | 📅 2023-10-11
 * [Runnable](https://github.com/kineticio/runnable) ⭐ 88 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-20 - Low-code admin workflows, built on Remix
@@ -144,4 +144,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
