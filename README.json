@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T11:29:37Z",
+            "last_commit": "2026-08-24T14:20:39Z",
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8725
+            "stars": 8726
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 422046848,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T05:17:08Z",
+            "last_commit": "2026-08-24T05:22:59Z",
             "owner": "sergiodxa",
             "repo": "remix-i18next",
             "stars": 716
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T14:41:19Z",
+            "last_commit": "2026-08-24T14:18:54Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 14
@@ -453,7 +453,7 @@
             "archived": false,
             "id": 470271648,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T01:37:21Z",
+            "last_commit": "2026-08-24T07:06:30Z",
             "owner": "netlify-templates",
             "repo": "kpop-stack",
             "stars": 251
@@ -738,7 +738,7 @@
             "last_commit": "2023-10-11T13:26:22Z",
             "owner": "dilums",
             "repo": "interactive-remix-routing",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:58:06.753Z",
+    "last_updated": "2026-08-24T14:23:20.970Z",
     "original_repository": "m5r/awesome-remix",
     "original_repository_id": 389114082,
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",
