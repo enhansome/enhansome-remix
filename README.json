@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:20:39Z",
+            "last_commit": "2026-08-24T20:57:28Z",
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8726
+            "stars": 8727
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-01T10:02:49Z",
             "owner": "sergiodxa",
             "repo": "remix-utils",
-            "stars": 2369
+            "stars": 2368
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 388624643,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T23:35:32Z",
+            "last_commit": "2026-08-24T23:35:03Z",
             "owner": "sergiodxa",
             "repo": "remix-auth",
             "stars": 2204
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:18:54Z",
+            "last_commit": "2026-08-24T14:47:59Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 14
@@ -705,25 +705,10 @@
             "archived": false,
             "id": 320393623,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:40:10Z",
+            "last_commit": "2026-08-24T21:51:31Z",
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
             "stars": 2493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sergiodxa/personal-site",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 34244035,
-            "language": "TypeScript",
-            "last_commit": "2022-08-15T10:05:35Z",
-            "owner": "sergiodxa",
-            "repo": "personal-site",
-            "stars": 95
           }
         },
         {
@@ -738,6 +723,21 @@
             "last_commit": "2023-10-11T13:26:22Z",
             "owner": "dilums",
             "repo": "interactive-remix-routing",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sergiodxa/personal-site",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 34244035,
+            "language": "TypeScript",
+            "last_commit": "2022-08-15T10:05:35Z",
+            "owner": "sergiodxa",
+            "repo": "personal-site",
             "stars": 95
           }
         },
@@ -839,8 +839,8 @@
           "repo_info": {
             "archived": false,
             "id": 365811346,
-            "language": "TypeScript",
-            "last_commit": "2026-07-06T03:52:10Z",
+            "language": "Astro",
+            "last_commit": "2026-08-25T01:43:17Z",
             "owner": "camchenry",
             "repo": "camchenry-remix",
             "stars": 3
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:20.970Z",
+    "last_updated": "2026-08-25T01:52:30.125Z",
     "original_repository": "m5r/awesome-remix",
     "original_repository_id": 389114082,
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",
