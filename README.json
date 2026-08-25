@@ -12,7 +12,7 @@
             "archived": false,
             "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T20:57:28Z",
+            "last_commit": "2026-08-25T06:13:28Z",
             "owner": "getsentry",
             "repo": "sentry-javascript",
             "stars": 8727
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 365811346,
             "language": "Astro",
-            "last_commit": "2026-08-25T01:43:17Z",
+            "last_commit": "2026-08-25T03:20:27Z",
             "owner": "camchenry",
             "repo": "camchenry-remix",
             "stars": 3
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:52:30.125Z",
+    "last_updated": "2026-08-25T06:20:05.501Z",
     "original_repository": "m5r/awesome-remix",
     "original_repository_id": 389114082,
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",

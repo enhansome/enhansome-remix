@@ -14,7 +14,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Packages
 
-* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,727 | 🐛 618 | 🌐 TypeScript | 📅 2026-08-24 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
+* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,727 | 🐛 618 | 🌐 TypeScript | 📅 2026-08-25 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
 * [remix-utils](https://github.com/sergiodxa/remix-utils) ⭐ 2,368 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-01 - A set of utility functions and types to use with Remix.run
 * [remix-auth](https://github.com/sergiodxa/remix-auth) ⭐ 2,204 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-24 - Simple Authentication for Remix
 * [remix-validated-form](https://github.com/airjp73/remix-validated-form) ⭐ 970 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-07 - A ValidatedForm component and helpers for easy client and server side form validation.
