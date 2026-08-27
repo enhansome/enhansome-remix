@@ -12,7 +12,7 @@
             "archived": false,
             "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:36:04Z",
+            "last_commit": "2026-08-27T11:51:58Z",
             "owner": "getsentry",
             "repo": "sentry-javascript",
             "stars": 8726
@@ -866,9 +866,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:48:40.184Z",
-    "original_repository": "m5r/awesome-remix",
-    "original_repository_id": 389114082,
+    "last_updated": "2026-08-27T11:59:31.404Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 389114082,
+      "language": null,
+      "last_commit": "2026-04-25T11:29:19Z",
+      "owner": "m5r",
+      "repo": "awesome-remix",
+      "stars": 452
+    },
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",
     "enhanced_repository": "enhansome/enhansome-remix",
     "enhanced_repository_description": null,
