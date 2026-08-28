@@ -12,11 +12,12 @@
             "archived": false,
             "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:51:58Z",
+            "last_commit": "2026-08-28T10:58:50Z",
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8726
-          }
+            "stars": 8727
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "sergiodxa",
             "repo": "remix-utils",
             "stars": 2367
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-24T23:35:03Z",
             "owner": "sergiodxa",
             "repo": "remix-auth",
-            "stars": 2203
-          }
+            "stars": 2202
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "airjp73",
             "repo": "rvf",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "seasonedcc",
             "repo": "composable-functions",
             "stars": 743
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "sergiodxa",
             "repo": "remix-i18next",
             "stars": 715
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "remix-pwa",
             "repo": "remix-pwa",
             "stars": 613
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "seasonedcc",
             "repo": "remix-forms",
             "stars": 514
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "yesmeck",
             "repo": "safe-routes",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Josh-McFarlin",
             "repo": "remix-image",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "kiliman",
             "repo": "remix-params-helper",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "abereghici",
             "repo": "remix-themes",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "chaance",
             "repo": "remix-seo",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "fedeya",
             "repo": "remix-sitemap",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "alexanderson1993",
             "repo": "remix-auth-webauthn",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "itsMapleLeaf",
             "repo": "remix-tailwind",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "donavon",
             "repo": "superjson-remix",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "donavon",
             "repo": "remix-etag",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "excessivecoding",
             "repo": "remix-crash",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "neurosnap",
             "repo": "remix-middleware",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "tatemz",
             "repo": "remix-strong-routes",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -327,11 +348,12 @@
             "archived": false,
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T14:48:22Z",
+            "last_commit": "2026-08-27T18:15:14Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "dev-afzalansari",
             "repo": "remix-progressbar",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         }
       ],
       "title": "Packages"
@@ -366,8 +389,9 @@
             "last_commit": "2026-08-01T18:37:56Z",
             "owner": "dev-xo",
             "repo": "remix-saas",
-            "stars": 1455
-          }
+            "stars": 1454
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "remix-run",
             "repo": "indie-stack",
             "stars": 1142
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "remix-run",
             "repo": "blues-stack",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "remix-run",
             "repo": "grunge-stack",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "rphlmr",
             "repo": "supa-fly-stack",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "edmundhung",
             "repo": "remix-cloudflare-template",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "netlify-templates",
             "repo": "kpop-stack",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "Girish21",
             "repo": "speed-metal-stack",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "robipop22",
             "repo": "dnb-stack",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "geldata",
             "repo": "remix",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "aaronpowell",
             "repo": "azure-remix-stack",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "jaykaycodes",
             "repo": "remix-chop-suey-stack",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "remix-pwa",
             "repo": "rockspec-stack",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "tdsoftpl",
             "repo": "cool-stack",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         }
       ],
       "title": "Stacks"
@@ -583,7 +620,8 @@
             "owner": "one-aalam",
             "repo": "remix-starter-kit",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "mcansh",
             "repo": "remix-tailwind-starter",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "danielgary",
             "repo": "remix-azure-template",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "jacob-ebey",
             "repo": "remix-auth-layouts-example",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "one-aalam",
             "repo": "remix-edge-kit",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "jacob-ebey",
             "repo": "remix-css-modules",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "brookslybrand",
             "repo": "remix-nested-layouts",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -688,7 +732,8 @@
             "owner": "ascorbic",
             "repo": "remix-on-netlify",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         }
       ],
       "title": "Templates"
@@ -709,7 +754,8 @@
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
             "stars": 2493
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "dilums",
             "repo": "interactive-remix-routing",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "sergiodxa",
             "repo": "personal-site",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -750,11 +798,12 @@
             "archived": false,
             "id": 539599406,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:37:27Z",
+            "last_commit": "2026-08-27T20:04:12Z",
             "owner": "kineticio",
             "repo": "runnable",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "BenoitAverty",
             "repo": "realworld-remix.run",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "mcansh",
             "repo": "snkrs",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "sergiodxa",
             "repo": "collected-remix",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "one-aalam",
             "repo": "remix-ink",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -829,7 +882,8 @@
             "owner": "jotyy",
             "repo": "remix-portfolio",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -844,7 +898,8 @@
             "owner": "camchenry",
             "repo": "camchenry-remix",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         },
         {
           "node_type": "item",
@@ -859,14 +914,15 @@
             "owner": "HovaLabs",
             "repo": "hova-labs-remix",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
         }
       ],
       "title": "Example Apps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:31.404Z",
+    "last_updated": "2026-08-28T11:23:33.693Z",
     "original_repository_info": {
       "archived": false,
       "id": 389114082,

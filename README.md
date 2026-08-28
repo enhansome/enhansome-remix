@@ -14,9 +14,9 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Packages
 
-* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,726 | 🐛 608 | 🌐 TypeScript | 📅 2026-08-27 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
+* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,727 | 🐛 625 | 🌐 TypeScript | 📅 2026-08-28 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
 * [remix-utils](https://github.com/sergiodxa/remix-utils) ⭐ 2,367 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-01 - A set of utility functions and types to use with Remix.run
-* [remix-auth](https://github.com/sergiodxa/remix-auth) ⭐ 2,203 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-24 - Simple Authentication for Remix
+* [remix-auth](https://github.com/sergiodxa/remix-auth) ⭐ 2,202 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-24 - Simple Authentication for Remix
 * [remix-validated-form](https://github.com/airjp73/remix-validated-form) ⭐ 970 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-07 - A ValidatedForm component and helpers for easy client and server side form validation.
 * [domain-functions](https://github.com/seasonedcc/domain-functions/) ⭐ 743 | 🐛 4 | 🌐 TypeScript | 📅 2025-05-30 - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
 * [remix-i18next](https://github.com/sergiodxa/remix-i18next) ⭐ 715 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24 - The easiest way to translate your Remix apps
@@ -35,13 +35,13 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 * [remix-crash](https://github.com/xstevenyung/remix-crash) ⚠️ Archived - Get better insight on why your Remix app crashed during development 💥
 * [remix-middleware](https://github.com/neurosnap/remix-middleware) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2022-02-13 - An express-like middleware system for remix loaders and actions
 * [remix-strong-routes](https://github.com/tatemz/remix-strong-routes) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2024-03-04 - Strongly typed route exports.
-* [@aeorank/remix](https://github.com/vinpatel/aeorank/tree/main/packages/remix) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-26 - Scores your Remix app's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/remix](https://github.com/vinpatel/aeorank/tree/main/packages/remix) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-27 - Scores your Remix app's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [remix-progressbar](https://github.com/dev-afzalansari/remix-progressbar) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-21 - Progress Bar for Remix Applications.
 * [remix-paraglidejs](https://inlang.com/m/fnhuwzrx/library-brikev-remix-paraglidejs) - Simple, Tiny, Typesafe i18n for Remix Apps
 
 ## Stacks
 
-* [Stripe Stack](https://github.com/dev-xo/stripe-stack) ⭐ 1,455 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01 - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM. Deploys to Fly.io
+* [Stripe Stack](https://github.com/dev-xo/stripe-stack) ⭐ 1,454 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01 - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM. Deploys to Fly.io
 * [indie-stack](https://github.com/remix-run/indie-stack) ⚠️ Archived - The Indie Stack: Deployed to a long-running Node.js server with a persistent SQLite database. This stack is great for websites with dynamic data that you control (blogs, marketing, content sites). It's also a perfect, low-complexity bootstrap for MVPs, prototypes, and proof-of-concepts that can later be updated to the Blues stack easily.
 * [blues-stack](https://github.com/remix-run/blues-stack) ⚠️ Archived - The Blues Stack: Deployed to the edge (distributed) with a long-running Node.js server and PostgreSQL database. Intended for large and fast production-grade applications serving millions of users.
 * [grunge-stack](https://github.com/remix-run/grunge-stack) ⚠️ Archived - The Grunge Stack: Deployed to a serverless function running Node.js with DynamoDB for persistence. Intended for folks who want to deploy a production-grade application on AWS infrastructure serving millions of users.
@@ -144,4 +144,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
