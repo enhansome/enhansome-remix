@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Sentry SDKs for JavaScript",
+            "homepage": "https://sentry.io",
             "id": 3328572,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T10:58:50Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:49:30Z",
+            "open_issues": 611,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8727
+            "stars": 8728,
+            "topics": [
+              "angular",
+              "crash-reporting",
+              "ember",
+              "error-monitoring",
+              "hacktoberfest",
+              "javascript",
+              "javascript-client",
+              "nextjs",
+              "node",
+              "raven",
+              "react",
+              "sdk",
+              "sentry",
+              "sentry-client",
+              "tag-production",
+              "team-sdk-javascript",
+              "team-web-frontend",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -26,12 +51,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of utility functions and types to use with Remix.run",
+            "homepage": "https://sergiodxa.github.io/remix-utils/",
             "id": 363995566,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T10:02:49Z",
+            "open_issues": 31,
             "owner": "sergiodxa",
             "repo": "remix-utils",
-            "stars": 2367
+            "stars": 2367,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -42,12 +72,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Authentication for Remix",
+            "homepage": "https://sergiodxa.github.io/remix-auth/",
             "id": 388624643,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T23:35:03Z",
+            "open_issues": 3,
             "owner": "sergiodxa",
             "repo": "remix-auth",
-            "stars": 2202
+            "stars": 2202,
+            "topics": [
+              "auth",
+              "auth0",
+              "authentication",
+              "oauth2",
+              "remix",
+              "strategies"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -58,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy form validation and state management for React and Remix",
+            "homepage": "https://rvf-js.io",
             "id": 431357516,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T16:57:09Z",
+            "open_issues": 18,
             "owner": "airjp73",
             "repo": "rvf",
-            "stars": 970
+            "stars": 970,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -74,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Types and functions to make composition easy and safe",
+            "homepage": null,
             "id": 469882687,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-30T00:59:30Z",
+            "open_issues": 4,
             "owner": "seasonedcc",
             "repo": "composable-functions",
-            "stars": 743
+            "stars": 743,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -90,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to translate your React Router framework mode apps",
+            "homepage": "https://sergiodxa.github.io/remix-i18next/",
             "id": 422046848,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T05:22:59Z",
+            "open_issues": 2,
             "owner": "sergiodxa",
             "repo": "remix-i18next",
-            "stars": 715
+            "stars": 715,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -106,12 +163,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ecosystem of lightweight packages and helpers to integrate full PWA features into Remix 💿",
+            "homepage": "https://remix-pwa.run",
             "id": 459534141,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-11T08:27:55Z",
+            "open_issues": 7,
             "owner": "remix-pwa",
             "repo": "remix-pwa",
-            "stars": 613
+            "stars": 613,
+            "topics": [
+              "cross-platform",
+              "npm-module",
+              "offline",
+              "progressive-web-app",
+              "pwa",
+              "remix-run"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -122,12 +191,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full-stack forms for React Router",
+            "homepage": "https://remix-forms.seasoned.cc",
             "id": 463116412,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T03:02:28Z",
+            "open_issues": 0,
             "owner": "seasonedcc",
             "repo": "remix-forms",
-            "stars": 514
+            "stars": 514,
+            "topics": [
+              "form",
+              "forms",
+              "react-hook-form",
+              "react-router",
+              "react-router-dom",
+              "react-router-dom-v6",
+              "react-router-v6",
+              "remix",
+              "remix-run",
+              "type-safety",
+              "typescript",
+              "zod"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -138,12 +225,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typesafe routing for React Router v7 apps.",
+            "homepage": null,
             "id": 437561521,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-19T12:22:19Z",
+            "open_issues": 4,
             "owner": "yesmeck",
             "repo": "safe-routes",
-            "stars": 512
+            "stars": 512,
+            "topics": [
+              "react-router",
+              "remix",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -154,12 +250,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React component for responsive images in Remix",
+            "homepage": "https://remix-image.mcfarl.in",
             "id": 449976662,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-22T11:03:24Z",
+            "open_issues": 11,
             "owner": "Josh-McFarlin",
             "repo": "remix-image",
-            "stars": 339
+            "stars": 339,
+            "topics": [
+              "image",
+              "react",
+              "remix",
+              "responsive"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -170,12 +276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package makes it simple to use Zod with standard URLSearchParams and FormData which are typically used in Remix apps.",
+            "homepage": null,
             "id": 434298930,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-24T16:29:33Z",
+            "open_issues": 20,
             "owner": "kiliman",
             "repo": "remix-params-helper",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -186,12 +297,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An abstraction for themes in your Remix app.",
+            "homepage": "https://www.npmjs.com/package/remix-themes",
             "id": 439638854,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-06-26T13:35:32Z",
+            "open_issues": 8,
             "owner": "abereghici",
             "repo": "remix-themes",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "dark-mode",
+              "dark-theme",
+              "javascript",
+              "react",
+              "remix",
+              "remix-run",
+              "theme",
+              "themes",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -202,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package for easily managing SEO meta and link tags in Remix.",
+            "homepage": null,
             "id": 426117208,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-12T02:08:29Z",
+            "open_issues": 2,
             "owner": "chaance",
             "repo": "remix-seo",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -218,12 +349,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sitemap generator for Remix applications",
+            "homepage": "https://npmjs.com/remix-sitemap",
             "id": 613651014,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-29T16:05:38Z",
+            "open_issues": 11,
             "owner": "fedeya",
             "repo": "remix-sitemap",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "remix",
+              "sitemap"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -234,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Remix Auth strategy for signing in with Web Authentication passkeys.",
+            "homepage": null,
             "id": 620084606,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-03T16:27:33Z",
+            "open_issues": 6,
             "owner": "alexanderson1993",
             "repo": "remix-auth-webauthn",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -250,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Use TailwindCSS with Remix without an extra build step!",
+            "homepage": null,
             "id": 431215247,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-15T20:24:37Z",
+            "open_issues": 2,
             "owner": "itsMapleLeaf",
             "repo": "remix-tailwind",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -266,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 469443893,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-04T18:34:23Z",
+            "open_issues": 3,
             "owner": "donavon",
             "repo": "superjson-remix",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -282,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 472270173,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-01-23T18:45:31Z",
+            "open_issues": 2,
             "owner": "donavon",
             "repo": "remix-etag",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -298,12 +457,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Get better insight on why your Remix app crashed during development 💥",
+            "homepage": null,
             "id": 455344827,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-07-19T19:32:08Z",
+            "open_issues": 7,
             "owner": "excessivecoding",
             "repo": "remix-crash",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "debugging",
+              "dev-overlay",
+              "remix"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -314,12 +482,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "express-like middleware system for your remix loaders and actions",
+            "homepage": null,
             "id": 449932254,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-02-13T21:02:04Z",
+            "open_issues": 0,
             "owner": "neurosnap",
             "repo": "remix-middleware",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "remix",
+              "remix-run"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -330,12 +506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remix utilities for building strongly typed routes.",
+            "homepage": null,
             "id": 630696018,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-04T22:24:48Z",
+            "open_issues": 7,
             "owner": "tatemz",
             "repo": "remix-strong-routes",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -346,12 +527,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scan any website for AI visibility. Score 0-100 across 36 criteria. Generate 9 AI-readable files. CLI + GitHub App + 13 framework plugins. Open source.",
+            "homepage": "https://aeorank.dev",
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T18:15:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T18:41:28Z",
+            "open_issues": 7,
             "owner": "vinpatel",
             "repo": "aeorank",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "aeo",
+              "ai-optimization",
+              "ai-search",
+              "ai-visibility",
+              "answer-engine-optimization",
+              "chatgpt",
+              "claude",
+              "cli",
+              "developer-tools",
+              "generative-ai",
+              "github-action",
+              "github-app",
+              "lighthouse",
+              "llm",
+              "llms-txt",
+              "open-source",
+              "perplexity",
+              "schema-org",
+              "seo",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -362,12 +569,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Progress Bar for Remix Applications",
+            "homepage": "https://www.npmjs.com/package/remix-progressbar",
             "id": 579563651,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-21T18:35:15Z",
+            "open_issues": 0,
             "owner": "dev-afzalansari",
             "repo": "remix-progressbar",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "progressbar",
+              "remix",
+              "remix-progressbar"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         }
@@ -384,12 +600,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lightweight, Production-Ready Remix Stack for your next SaaS application.",
+            "homepage": null,
             "id": 535110107,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T18:37:56Z",
+            "open_issues": 0,
             "owner": "dev-xo",
             "repo": "remix-saas",
-            "stars": 1454
+            "stars": 1454,
+            "topics": [
+              "flydotio",
+              "prisma",
+              "remix-stack",
+              "sqlite",
+              "stripe",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -400,12 +629,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.",
+            "homepage": "https://remix.run/stacks",
             "id": 465928257,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-28T20:34:01Z",
+            "open_issues": 17,
             "owner": "remix-run",
             "repo": "indie-stack",
-            "stars": 1142
+            "stars": 1143,
+            "topics": [
+              "remix-stack"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -416,12 +652,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.",
+            "homepage": "https://remix.run/stacks",
             "id": 461012689,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-28T20:35:06Z",
+            "open_issues": 11,
             "owner": "remix-run",
             "repo": "blues-stack",
-            "stars": 970
+            "stars": 970,
+            "topics": [
+              "remix-stack"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -432,12 +675,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Remix Stack for deploying to AWS with DynamoDB, authentication, testing, linting, formatting, etc.",
+            "homepage": "https://remix.run/stacks",
             "id": 463325363,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-28T20:34:38Z",
+            "open_issues": 12,
             "owner": "remix-run",
             "repo": "grunge-stack",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "aws",
+              "remix-stack"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -448,12 +699,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.",
+            "homepage": null,
             "id": 473100415,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-10T14:20:46Z",
+            "open_issues": 3,
             "owner": "rphlmr",
             "repo": "supa-fly-stack",
-            "stars": 330
+            "stars": 330,
+            "topics": [
+              "flydotio",
+              "remix-run",
+              "remix-stack",
+              "supabase"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -464,12 +725,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📜  Remix 3 template for Cloudflare Workers",
+            "homepage": "https://template.remix-run.workers.dev",
             "id": 398878693,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-06T22:37:56Z",
+            "open_issues": 3,
             "owner": "edmundhung",
             "repo": "remix-cloudflare-template",
-            "stars": 327
+            "stars": 327,
+            "topics": [
+              "cloudflare-workers",
+              "remix"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -480,12 +749,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a Remix app with Netlify, Tailwind, TypeScript and more!",
+            "homepage": "https://kpop-stack.netlify.app",
             "id": 470271648,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:41:46Z",
+            "license": null,
+            "last_commit": "2026-08-28T20:14:29Z",
+            "open_issues": 22,
             "owner": "netlify-templates",
             "repo": "kpop-stack",
-            "stars": 251
+            "stars": 251,
+            "topics": [
+              "netlify",
+              "react",
+              "reactjs",
+              "remix",
+              "remix-stack",
+              "tailwindcss",
+              "template",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -496,12 +779,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Remix Blog Stack for deploying to Fly with MDX, SQLite, testing, linting, formatting, etc.",
+            "homepage": "https://remix.run/stacks",
             "id": 476824624,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-07-13T02:03:02Z",
+            "open_issues": 8,
             "owner": "Girish21",
             "repo": "speed-metal-stack",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "remix-stack"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -512,12 +802,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Remix Stack for deploying to Vercel with testing, linting, formatting, structure and mock for 3rd party API integration.",
+            "homepage": "https://dnb-stack.vercel.app/",
             "id": 491835491,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-19T14:30:49Z",
+            "open_issues": 6,
             "owner": "robipop22",
             "repo": "dnb-stack",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "remix-stack",
+              "remix-stacks",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -528,12 +827,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Remix stack for EdgeDB-backed applications",
+            "homepage": null,
             "id": 482066451,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-08-03T03:32:00Z",
+            "open_issues": 0,
             "owner": "geldata",
             "repo": "remix",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "edgedb",
+              "remix-stack"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -544,12 +851,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A remix stack template for running a remix app on Azure",
+            "homepage": null,
             "id": 471218701,
             "language": "Bicep",
+            "license": "MIT",
             "last_commit": "2023-03-29T06:12:32Z",
+            "open_issues": 4,
             "owner": "aaronpowell",
             "repo": "azure-remix-stack",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "azure",
+              "remix-stack"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -560,12 +875,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remix+EdgeDB+Tailwind+Fly.io=🖤",
+            "homepage": null,
             "id": 488832873,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-24T08:07:55Z",
+            "open_issues": 0,
             "owner": "jaykaycodes",
             "repo": "remix-chop-suey-stack",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "edgedb",
+              "flyio",
+              "react",
+              "remix",
+              "remix-stack",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -576,12 +903,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A fully configurable & customizable Remix PWA stack.  ",
+            "homepage": "https://rockspec-stack.fly.dev",
             "id": 482290853,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-01-27T15:12:17Z",
+            "open_issues": 1,
             "owner": "remix-pwa",
             "repo": "rockspec-stack",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "cypress",
+              "fly",
+              "postgresql",
+              "remix-run",
+              "remix-stack"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -592,12 +930,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ice-cool 🧊 Remix + Directus starter template.",
+            "homepage": null,
             "id": 523243044,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-26T13:19:37Z",
+            "open_issues": 13,
             "owner": "tdsoftpl",
             "repo": "cool-stack",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "directus",
+              "remix",
+              "remix-stack",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         }
@@ -614,12 +962,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remix with brilliant bells and useful whistles",
+            "homepage": null,
             "id": 431056595,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-07-09T16:15:18Z",
+            "open_issues": 2,
             "owner": "one-aalam",
             "repo": "remix-starter-kit",
-            "stars": 236
+            "stars": 236,
+            "topics": [
+              "daisyui",
+              "eslint",
+              "full",
+              "full-stack",
+              "remix",
+              "remixrun",
+              "starter-kit",
+              "starter-template",
+              "supabase-auth",
+              "supabase-db",
+              "supabase-js",
+              "supabase-storage",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -630,12 +997,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Remix.run starter with tailwindcss configured and deployed to various cloud platforms",
+            "homepage": "http://remix.mcan.sh",
             "id": 314279916,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-03-14T16:54:47Z",
+            "open_issues": 14,
             "owner": "mcansh",
             "repo": "remix-tailwind-starter",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "netlify",
+              "remix",
+              "remixrun",
+              "tailwindcss",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -646,12 +1024,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 385790890,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-01-21T04:52:13Z",
+            "open_issues": 2,
             "owner": "danielgary",
             "repo": "remix-azure-template",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -662,12 +1045,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example showing how to build a simple login flow utilizing actions, transitions, layout routes and more that works with and without JavaScript enabled.",
+            "homepage": null,
             "id": 417260722,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-10-27T23:16:14Z",
+            "open_issues": 0,
             "owner": "jacob-ebey",
             "repo": "remix-auth-layouts-example",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -678,12 +1066,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 452761852,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-01-28T18:28:01Z",
+            "open_issues": 0,
             "owner": "one-aalam",
             "repo": "remix-edge-kit",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -694,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example of using CSS modules with Remix.run",
+            "homepage": null,
             "id": 416168372,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-10-12T03:30:42Z",
+            "open_issues": 0,
             "owner": "jacob-ebey",
             "repo": "remix-css-modules",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -710,12 +1108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converting a demo of implementing nested layouts in Next.js: https://github.com/brookslybrand/next-nested-layouts",
+            "homepage": "https://remix-nested-layouts.vercel.app/",
             "id": 374811633,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-07-01T16:32:12Z",
+            "open_issues": 1,
             "owner": "brookslybrand",
             "repo": "remix-nested-layouts",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -726,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://remix-on.netlify.app/",
             "id": 370571130,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-05-25T10:24:19Z",
+            "open_issues": 0,
             "owner": "ascorbic",
             "repo": "remix-on-netlify",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         }
@@ -748,12 +1156,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My personal website",
+            "homepage": "https://kentcdodds.com",
             "id": 320393623,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:19:45Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T16:28:09Z",
+            "open_issues": 3,
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
-            "stars": 2493
+            "stars": 2493,
+            "topics": [
+              "kentcdodds",
+              "oss",
+              "prisma",
+              "react",
+              "remix",
+              "sqlite",
+              "typescript",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -764,12 +1186,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive app to demonstrate how routing works in Remix",
+            "homepage": "https://remix-routing-demo.netlify.app/",
             "id": 437327942,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-11T13:26:22Z",
+            "open_issues": 0,
             "owner": "dilums",
             "repo": "interactive-remix-routing",
-            "stars": 97
+            "stars": 98,
+            "topics": [
+              "react",
+              "remix",
+              "remix-run"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -780,12 +1211,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Personal website",
+            "homepage": "https://sergiodxa.com/",
             "id": 34244035,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-08-15T10:05:35Z",
+            "open_issues": 11,
             "owner": "sergiodxa",
             "repo": "personal-site",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "blog",
+              "hacktoberfest",
+              "nextjs",
+              "personal-blog",
+              "personal-site",
+              "personal-website"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -796,12 +1239,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build internal workflows with ease",
+            "homepage": "https://getrunnable.com/",
             "id": 539599406,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:04:12Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:18:05Z",
+            "open_issues": 21,
             "owner": "kineticio",
             "repo": "runnable",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "low-code",
+              "nodejs",
+              "remix",
+              "remix-run",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -812,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remix.run implementation of Conduit",
+            "homepage": "realworld-remix-run.benoitaverty.vercel.app",
             "id": 320078336,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-02-16T06:53:08Z",
+            "open_issues": 11,
             "owner": "BenoitAverty",
             "repo": "realworld-remix.run",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -828,12 +1287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "show off your sneaker collection",
+            "homepage": "https://snkrs.mcan.sh",
             "id": 263179018,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-26T19:15:17Z",
+            "open_issues": 11,
             "owner": "mcansh",
             "repo": "snkrs",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -844,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Collected Notes client in Remix",
+            "homepage": "collected-remix.vercel.app",
             "id": 433647395,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-02-04T03:11:03Z",
+            "open_issues": 6,
             "owner": "sergiodxa",
             "repo": "collected-remix",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -860,12 +1329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 454833488,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-02-14T08:21:55Z",
+            "open_issues": 0,
             "owner": "one-aalam",
             "repo": "remix-ink",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -876,12 +1350,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪶 My portfolio built with Remix, ChakraUI...",
+            "homepage": "https://jotyy-portfolio.vercel.app/",
             "id": 444221289,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-14T08:01:47Z",
+            "open_issues": 0,
             "owner": "jotyy",
             "repo": "remix-portfolio",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "chakra-ui",
+              "portfolio",
+              "remix",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -892,12 +1376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://camchenry-remix.vercel.app",
             "id": 365811346,
             "language": "Astro",
+            "license": null,
             "last_commit": "2026-08-25T03:20:27Z",
+            "open_issues": 1,
             "owner": "camchenry",
             "repo": "camchenry-remix",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -908,12 +1397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 379062884,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-06-21T21:15:50Z",
+            "open_issues": 0,
             "owner": "HovaLabs",
             "repo": "hova-labs-remix",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         }
@@ -922,15 +1416,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:23:33.693Z",
+    "last_updated": "2026-08-29T04:43:12.498Z",
     "original_repository_info": {
       "archived": false,
+      "description": null,
+      "homepage": null,
       "id": 389114082,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-25T11:29:19Z",
+      "open_issues": 2,
       "owner": "m5r",
       "repo": "awesome-remix",
-      "stars": 452
+      "stars": 452,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "react",
+        "react-router",
+        "remix"
+      ]
     },
     "original_repository_sha": "20abee1f350436bae148740aa94c806d3013a13f",
     "enhanced_repository": "enhansome/enhansome-remix",
