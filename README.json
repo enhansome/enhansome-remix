@@ -19,7 +19,7 @@
             "open_issues": 612,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8728,
+            "stars": 8729,
             "topics": [
               "angular",
               "crash-reporting",
@@ -147,8 +147,8 @@
             "id": 422046848,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T05:22:59Z",
-            "open_issues": 2,
+            "last_commit": "2026-08-31T05:19:45Z",
+            "open_issues": 3,
             "owner": "sergiodxa",
             "repo": "remix-i18next",
             "stars": 715,
@@ -532,7 +532,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T14:37:05Z",
+            "last_commit": "2026-08-30T14:37:04Z",
             "open_issues": 7,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -754,7 +754,7 @@
             "id": 470271648,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-28T20:14:29Z",
+            "last_commit": "2026-08-31T05:06:56Z",
             "open_issues": 22,
             "owner": "netlify-templates",
             "repo": "kpop-stack",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:24:34.344Z",
+    "last_updated": "2026-08-31T05:34:44.071Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
