@@ -15,8 +15,8 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T22:49:30Z",
-            "open_issues": 612,
+            "last_commit": "2026-08-31T22:15:46Z",
+            "open_issues": 602,
             "owner": "getsentry",
             "repo": "sentry-javascript",
             "stars": 8729,
@@ -77,11 +77,11 @@
             "id": 388624643,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T23:35:03Z",
+            "last_commit": "2026-08-31T23:34:46Z",
             "open_issues": 3,
             "owner": "sergiodxa",
             "repo": "remix-auth",
-            "stars": 2202,
+            "stars": 2203,
             "topics": [
               "auth",
               "auth0",
@@ -532,7 +532,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T14:37:04Z",
+            "last_commit": "2026-08-31T14:39:41Z",
             "open_issues": 7,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:34:44.071Z",
+    "last_updated": "2026-09-01T05:08:27.423Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
