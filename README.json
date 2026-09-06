@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-04T17:55:14Z",
-            "open_issues": 693,
+            "open_issues": 694,
             "owner": "getsentry",
             "repo": "sentry-javascript",
             "stars": 8736,
@@ -532,7 +532,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:37:53Z",
+            "last_commit": "2026-09-05T14:37:07Z",
             "open_issues": 7,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:29:25.237Z",
+    "last_updated": "2026-09-06T04:39:02.415Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
