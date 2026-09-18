@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T00:18:39Z",
-            "open_issues": 713,
+            "last_commit": "2026-09-17T21:24:36Z",
+            "open_issues": 730,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8740,
+            "stars": 8744,
             "topics": [
               "angular",
               "crash-reporting",
@@ -60,7 +60,7 @@
             "open_issues": 31,
             "owner": "sergiodxa",
             "repo": "remix-utils",
-            "stars": 2365,
+            "stars": 2366,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -130,7 +130,7 @@
             "open_issues": 4,
             "owner": "seasonedcc",
             "repo": "composable-functions",
-            "stars": 743,
+            "stars": 744,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -151,7 +151,7 @@
             "open_issues": 2,
             "owner": "sergiodxa",
             "repo": "remix-i18next",
-            "stars": 716,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -234,7 +234,7 @@
             "open_issues": 4,
             "owner": "yesmeck",
             "repo": "safe-routes",
-            "stars": 512,
+            "stars": 513,
             "topics": [
               "react-router",
               "remix",
@@ -532,7 +532,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T14:40:21Z",
+            "last_commit": "2026-09-18T02:10:14Z",
             "open_issues": 8,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -734,7 +734,7 @@
             "open_issues": 3,
             "owner": "edmundhung",
             "repo": "remix-cloudflare-template",
-            "stars": 327,
+            "stars": 328,
             "topics": [
               "cloudflare-workers",
               "remix"
@@ -935,7 +935,7 @@
             "id": 523243044,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-15T11:29:44Z",
+            "last_commit": "2026-09-17T23:42:50Z",
             "open_issues": 14,
             "owner": "tdsoftpl",
             "repo": "cool-stack",
@@ -1165,7 +1165,7 @@
             "open_issues": 3,
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
-            "stars": 2494,
+            "stars": 2495,
             "topics": [
               "kentcdodds",
               "oss",
@@ -1244,7 +1244,7 @@
             "id": 539599406,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T13:31:45Z",
+            "last_commit": "2026-09-17T20:47:01Z",
             "open_issues": 22,
             "owner": "kineticio",
             "repo": "runnable",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T04:53:20.700Z",
+    "last_updated": "2026-09-18T04:43:35.901Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
