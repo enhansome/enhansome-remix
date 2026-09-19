@@ -14,13 +14,13 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Packages
 
-* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,744 | 🐛 730 | 🌐 TypeScript | 📅 2026-09-17 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
+* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,744 | 🐛 742 | 🌐 TypeScript | 📅 2026-09-19 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
 * [remix-utils](https://github.com/sergiodxa/remix-utils) ⭐ 2,366 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-01 - A set of utility functions and types to use with Remix.run
 * [remix-auth](https://github.com/sergiodxa/remix-auth) ⭐ 2,201 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-14 - Simple Authentication for Remix
 * [remix-validated-form](https://github.com/airjp73/remix-validated-form) ⭐ 970 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-07 - A ValidatedForm component and helpers for easy client and server side form validation.
 * [domain-functions](https://github.com/seasonedcc/domain-functions/) ⭐ 744 | 🐛 4 | 🌐 TypeScript | 📅 2025-05-30 - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
 * [remix-i18next](https://github.com/sergiodxa/remix-i18next) ⭐ 715 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-14 - The easiest way to translate your Remix apps
-* [remix-pwa](https://github.com/ShafSpecs/remix-pwa) ⭐ 612 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-11 - A package to integrate PWA features into Remix
+* [remix-pwa](https://github.com/ShafSpecs/remix-pwa) ⭐ 611 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-11 - A package to integrate PWA features into Remix
 * [remix-forms](https://github.com/seasonedcc/remix-forms) ⭐ 514 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-15 - Magically create forms + actions in Remix
 * [remix-routes](https://github.com/yesmeck/remix-routes) ⭐ 513 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-19 - Typesafe routing for your Remix apps.
 * [remix-image](https://github.com/Josh-McFarlin/remix-image) ⭐ 339 | 🐛 11 | 🌐 TypeScript | 📅 2023-08-22 - A React component for responsive images in Remix.
@@ -41,7 +41,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Stacks
 
-* [Stripe Stack](https://github.com/dev-xo/stripe-stack) ⭐ 1,454 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-01 - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM. Deploys to Fly.io
+* [Stripe Stack](https://github.com/dev-xo/stripe-stack) ⭐ 1,453 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-01 - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM. Deploys to Fly.io
 * [indie-stack](https://github.com/remix-run/indie-stack) ⚠️ Archived - The Indie Stack: Deployed to a long-running Node.js server with a persistent SQLite database. This stack is great for websites with dynamic data that you control (blogs, marketing, content sites). It's also a perfect, low-complexity bootstrap for MVPs, prototypes, and proof-of-concepts that can later be updated to the Blues stack easily.
 * [blues-stack](https://github.com/remix-run/blues-stack) ⚠️ Archived - The Blues Stack: Deployed to the edge (distributed) with a long-running Node.js server and PostgreSQL database. Intended for large and fast production-grade applications serving millions of users.
 * [grunge-stack](https://github.com/remix-run/grunge-stack) ⚠️ Archived - The Grunge Stack: Deployed to a serverless function running Node.js with DynamoDB for persistence. Intended for folks who want to deploy a production-grade application on AWS infrastructure serving millions of users.
@@ -54,7 +54,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 * [azure-remix-stack](https://github.com/aaronpowell/azure-remix-stack) ⭐ 79 | 🐛 4 | 🌐 Bicep | 📅 2023-03-29 - A remix stack template for running a remix app on Azure
 * [remix-chop-suey-stack](https://github.com/jkcorrea/remix-chop-suey-stack) ⭐ 71 | 🐛 0 | 🌐 TypeScript | 📅 2023-01-24 - Remix+EdgeDB+Tailwind+Fly.io=🖤
 * [rockspec-stack](https://github.com/ShafSpecs/rockspec-stack) ⚠️ Archived - A fully configurable & customizable Remix PWA stack.
-* [cool-stack](https://github.com/tdsoftpl/cool-stack) ⭐ 36 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-17 - Template repository integrating Remix & Directus into a full-stack monorepo.
+* [cool-stack](https://github.com/tdsoftpl/cool-stack) ⭐ 36 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-18 - Template repository integrating Remix & Directus into a full-stack monorepo.
 
 ## Templates
 
@@ -69,10 +69,10 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Example Apps
 
-* [kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) ⭐ 2,495 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-16
+* [kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) ⭐ 2,496 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-19
 * [Interactive Remix Routing](https://github.com/dilums/interactive-remix-routing) ⭐ 98 | 🐛 0 | 🌐 TypeScript | 📅 2023-10-11
 * [sergiodxa/personal-site](https://github.com/sergiodxa/personal-site) ⚠️ Archived
-* [Runnable](https://github.com/kineticio/runnable) ⭐ 88 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-17 - Low-code admin workflows, built on Remix
+* [Runnable](https://github.com/kineticio/runnable) ⭐ 88 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-19 - Low-code admin workflows, built on Remix
 * [realworld-remix.run](https://github.com/BenoitAverty/realworld-remix.run) ⭐ 61 | 🐛 11 | 🌐 TypeScript | 📅 2022-02-16
 * [snkrs](https://github.com/mcansh/snkrs) ⭐ 36 | 🐛 11 | 🌐 TypeScript | 📅 2023-11-26
 * [sergiodxa/collected-remix](https://github.com/sergiodxa/collected-remix) ⭐ 12 | 🐛 6 | 🌐 TypeScript | 📅 2023-02-04
@@ -144,4 +144,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
