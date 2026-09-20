@@ -15,8 +15,8 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T02:54:40Z",
-            "open_issues": 742,
+            "last_commit": "2026-09-19T15:46:15Z",
+            "open_issues": 748,
             "owner": "getsentry",
             "repo": "sentry-javascript",
             "stars": 8744,
@@ -60,7 +60,7 @@
             "open_issues": 31,
             "owner": "sergiodxa",
             "repo": "remix-utils",
-            "stars": 2366,
+            "stars": 2367,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -81,7 +81,7 @@
             "open_issues": 4,
             "owner": "sergiodxa",
             "repo": "remix-auth",
-            "stars": 2201,
+            "stars": 2202,
             "topics": [
               "auth",
               "auth0",
@@ -527,12 +527,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Scan any website for AI visibility. Score 0-100 across 36 criteria. Generate 9 AI-readable files. CLI + GitHub App + 13 framework plugins. Open source.",
+            "description": "Scan any website for AI visibility. Score 0–100 across 12 dimensions (aeorank-cli@0.1.1). Generate 8 AI-readable files. CLI + GitHub Action + App. MIT.",
             "homepage": "https://aeorank.dev",
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T14:39:43Z",
+            "last_commit": "2026-09-19T14:36:48Z",
             "open_issues": 8,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -661,7 +661,7 @@
             "open_issues": 11,
             "owner": "remix-run",
             "repo": "blues-stack",
-            "stars": 969,
+            "stars": 970,
             "topics": [
               "remix-stack"
             ]
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:37:41.864Z",
+    "last_updated": "2026-09-20T04:54:05.063Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
