@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T22:04:59Z",
-            "open_issues": 748,
+            "last_commit": "2026-09-22T20:21:32Z",
+            "open_issues": 745,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8742,
+            "stars": 8743,
             "topics": [
               "angular",
               "crash-reporting",
@@ -109,7 +109,7 @@
             "open_issues": 18,
             "owner": "airjp73",
             "repo": "rvf",
-            "stars": 970,
+            "stars": 969,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -172,7 +172,7 @@
             "open_issues": 7,
             "owner": "remix-pwa",
             "repo": "remix-pwa",
-            "stars": 611,
+            "stars": 610,
             "topics": [
               "cross-platform",
               "npm-module",
@@ -259,7 +259,7 @@
             "open_issues": 11,
             "owner": "Josh-McFarlin",
             "repo": "remix-image",
-            "stars": 339,
+            "stars": 338,
             "topics": [
               "image",
               "react",
@@ -532,7 +532,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T14:41:37Z",
+            "last_commit": "2026-09-22T14:42:15Z",
             "open_issues": 8,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -609,7 +609,7 @@
             "open_issues": 0,
             "owner": "dev-xo",
             "repo": "remix-saas",
-            "stars": 1453,
+            "stars": 1452,
             "topics": [
               "flydotio",
               "prisma",
@@ -935,7 +935,7 @@
             "id": 523243044,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-18T14:02:04Z",
+            "last_commit": "2026-09-23T03:14:15Z",
             "open_issues": 14,
             "owner": "tdsoftpl",
             "repo": "cool-stack",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T04:56:10.641Z",
+    "last_updated": "2026-09-23T04:45:05.687Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
