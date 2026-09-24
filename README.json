@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T20:21:32Z",
-            "open_issues": 745,
+            "last_commit": "2026-09-24T02:48:44Z",
+            "open_issues": 721,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8743,
+            "stars": 8744,
             "topics": [
               "angular",
               "crash-reporting",
@@ -532,7 +532,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T14:42:15Z",
+            "last_commit": "2026-09-23T14:41:58Z",
             "open_issues": 8,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -754,7 +754,7 @@
             "id": 470271648,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-21T23:52:25Z",
+            "last_commit": "2026-09-24T01:52:49Z",
             "open_issues": 22,
             "owner": "netlify-templates",
             "repo": "kpop-stack",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T04:45:05.687Z",
+    "last_updated": "2026-09-24T04:50:51.192Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
