@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T04:01:51Z",
-            "open_issues": 584,
+            "last_commit": "2026-09-26T00:37:43Z",
+            "open_issues": 579,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8745,
+            "stars": 8744,
             "topics": [
               "angular",
               "crash-reporting",
@@ -501,27 +501,6 @@
         },
         {
           "node_type": "item",
-          "title": "remix-strong-routes",
-          "description": "Strongly typed route exports.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Remix utilities for building strongly typed routes.",
-            "homepage": null,
-            "id": 630696018,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2024-03-04T22:24:48Z",
-            "open_issues": 7,
-            "owner": "tatemz",
-            "repo": "remix-strong-routes",
-            "stars": 14,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T11:23:33.693Z"
-        },
-        {
-          "node_type": "item",
           "title": "@aeorank/remix",
           "description": "Scores your Remix app's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.",
           "children": [],
@@ -532,11 +511,11 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T02:42:26Z",
+            "last_commit": "2026-09-25T14:42:19Z",
             "open_issues": 10,
             "owner": "vinpatel",
             "repo": "aeorank",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "aeo",
               "ai-optimization",
@@ -559,6 +538,27 @@
               "seo",
               "typescript"
             ]
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
+        },
+        {
+          "node_type": "item",
+          "title": "remix-strong-routes",
+          "description": "Strongly typed route exports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Remix utilities for building strongly typed routes.",
+            "homepage": null,
+            "id": 630696018,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2024-03-04T22:24:48Z",
+            "open_issues": 7,
+            "owner": "tatemz",
+            "repo": "remix-strong-routes",
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
         },
@@ -1165,7 +1165,7 @@
             "open_issues": 3,
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
-            "stars": 2496,
+            "stars": 2495,
             "topics": [
               "kentcdodds",
               "oss",
@@ -1244,7 +1244,7 @@
             "id": 539599406,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:43:40Z",
+            "last_commit": "2026-09-26T03:06:29Z",
             "open_issues": 22,
             "owner": "kineticio",
             "repo": "runnable",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T04:57:32.695Z",
+    "last_updated": "2026-09-26T04:58:01.178Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
