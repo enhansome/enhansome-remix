@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T00:37:43Z",
-            "open_issues": 579,
+            "last_commit": "2026-09-26T09:11:15Z",
+            "open_issues": 582,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8744,
+            "stars": 8745,
             "topics": [
               "angular",
               "crash-reporting",
@@ -511,7 +511,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T14:42:19Z",
+            "last_commit": "2026-09-26T14:38:14Z",
             "open_issues": 10,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T04:58:01.178Z",
+    "last_updated": "2026-09-27T05:18:45.014Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
