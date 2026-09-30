@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T22:08:14Z",
-            "open_issues": 566,
+            "last_commit": "2026-09-30T05:30:10Z",
+            "open_issues": 516,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8748,
+            "stars": 8750,
             "topics": [
               "angular",
               "crash-reporting",
@@ -60,7 +60,7 @@
             "open_issues": 32,
             "owner": "sergiodxa",
             "repo": "remix-utils",
-            "stars": 2366,
+            "stars": 2365,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -511,7 +511,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T14:45:27Z",
+            "last_commit": "2026-09-29T14:43:51Z",
             "open_issues": 10,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -638,7 +638,7 @@
             "open_issues": 17,
             "owner": "remix-run",
             "repo": "indie-stack",
-            "stars": 1142,
+            "stars": 1141,
             "topics": [
               "remix-stack"
             ]
@@ -935,7 +935,7 @@
             "id": 523243044,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-28T23:10:28Z",
+            "last_commit": "2026-09-30T00:36:32Z",
             "open_issues": 14,
             "owner": "tdsoftpl",
             "repo": "cool-stack",
@@ -1161,7 +1161,7 @@
             "id": 320393623,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T00:59:35Z",
+            "last_commit": "2026-09-29T18:05:49Z",
             "open_issues": 3,
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T05:44:00.311Z",
+    "last_updated": "2026-09-30T05:32:39.631Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
