@@ -15,8 +15,8 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T05:30:10Z",
-            "open_issues": 516,
+            "last_commit": "2026-10-01T00:15:30Z",
+            "open_issues": 535,
             "owner": "getsentry",
             "repo": "sentry-javascript",
             "stars": 8750,
@@ -511,7 +511,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T14:43:51Z",
+            "last_commit": "2026-09-30T14:45:08Z",
             "open_issues": 10,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -708,7 +708,7 @@
             "open_issues": 3,
             "owner": "rphlmr",
             "repo": "supa-fly-stack",
-            "stars": 330,
+            "stars": 329,
             "topics": [
               "flydotio",
               "remix-run",
@@ -971,7 +971,7 @@
             "open_issues": 2,
             "owner": "one-aalam",
             "repo": "remix-starter-kit",
-            "stars": 236,
+            "stars": 235,
             "topics": [
               "daisyui",
               "eslint",
@@ -1244,7 +1244,7 @@
             "id": 539599406,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T23:05:05Z",
+            "last_commit": "2026-10-01T04:58:37Z",
             "open_issues": 22,
             "owner": "kineticio",
             "repo": "runnable",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:32:39.631Z",
+    "last_updated": "2026-10-01T05:53:38.955Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
