@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T03:57:23Z",
-            "open_issues": 512,
+            "last_commit": "2026-10-03T04:51:14Z",
+            "open_issues": 515,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8751,
+            "stars": 8750,
             "topics": [
               "angular",
               "crash-reporting",
@@ -151,7 +151,7 @@
             "open_issues": 2,
             "owner": "sergiodxa",
             "repo": "remix-i18next",
-            "stars": 715,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -511,7 +511,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T14:44:36Z",
+            "last_commit": "2026-10-02T14:44:50Z",
             "open_issues": 10,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -993,7 +993,7 @@
         {
           "node_type": "item",
           "title": "remix-tailwind-starter",
-          "description": null,
+          "description": "mcansh/remix-tailwind-starter",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1041,7 +1041,7 @@
         {
           "node_type": "item",
           "title": "remix-auth-layouts-example",
-          "description": null,
+          "description": "jacob-ebey/remix-auth-layouts-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1083,7 +1083,7 @@
         {
           "node_type": "item",
           "title": "remix-css-modules",
-          "description": null,
+          "description": "jacob-ebey/remix-css-modules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1104,7 +1104,7 @@
         {
           "node_type": "item",
           "title": "remix-nested-layouts",
-          "description": null,
+          "description": "brookslybrand/remix-nested-layouts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1125,7 +1125,7 @@
         {
           "node_type": "item",
           "title": "remix-on-netlify",
-          "description": null,
+          "description": "ascorbic/remix-on-netlify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1152,7 +1152,7 @@
         {
           "node_type": "item",
           "title": "kentcdodds.com",
-          "description": null,
+          "description": "kentcdodds/kentcdodds.com",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1182,7 +1182,7 @@
         {
           "node_type": "item",
           "title": "Interactive Remix Routing",
-          "description": null,
+          "description": "dilums/interactive-remix-routing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1207,7 +1207,7 @@
         {
           "node_type": "item",
           "title": "sergiodxa/personal-site",
-          "description": null,
+          "description": "sergiodxa/personal-site",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1262,7 +1262,7 @@
         {
           "node_type": "item",
           "title": "realworld-remix.run",
-          "description": null,
+          "description": "BenoitAverty/realworld-remix.run",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1283,7 +1283,7 @@
         {
           "node_type": "item",
           "title": "snkrs",
-          "description": null,
+          "description": "mcansh/snkrs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1304,7 +1304,7 @@
         {
           "node_type": "item",
           "title": "sergiodxa/collected-remix",
-          "description": null,
+          "description": "sergiodxa/collected-remix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1325,7 +1325,7 @@
         {
           "node_type": "item",
           "title": "Remix Ink",
-          "description": null,
+          "description": "one-aalam/remix-ink",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1346,7 +1346,7 @@
         {
           "node_type": "item",
           "title": "jotyy/remix-portfolio",
-          "description": null,
+          "description": "jotyy/remix-portfolio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1372,7 +1372,7 @@
         {
           "node_type": "item",
           "title": "camchenry-remix",
-          "description": null,
+          "description": "camchenry/camchenry-remix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1393,7 +1393,7 @@
         {
           "node_type": "item",
           "title": "hova-labs-remix",
-          "description": null,
+          "description": "HovaLabs/hova-labs-remix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:37:16.011Z",
+    "last_updated": "2026-10-03T05:05:04.237Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
