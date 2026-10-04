@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T04:51:14Z",
-            "open_issues": 515,
+            "last_commit": "2026-10-03T20:15:31Z",
+            "open_issues": 525,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8750,
+            "stars": 8751,
             "topics": [
               "angular",
               "crash-reporting",
@@ -511,8 +511,8 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:44:50Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-03T23:51:18Z",
+            "open_issues": 8,
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 15,
@@ -694,32 +694,6 @@
         },
         {
           "node_type": "item",
-          "title": "supa-fly-stack",
-          "description": "The Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.",
-            "homepage": null,
-            "id": 473100415,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2024-05-10T14:20:46Z",
-            "open_issues": 3,
-            "owner": "rphlmr",
-            "repo": "supa-fly-stack",
-            "stars": 329,
-            "topics": [
-              "flydotio",
-              "remix-run",
-              "remix-stack",
-              "supabase"
-            ]
-          },
-          "first_seen": "2026-08-28T11:23:33.693Z"
-        },
-        {
-          "node_type": "item",
           "title": "remix-worker-template",
           "description": "All-in-one Remix Cloudflare worker template with tailwindcss, cypress, eslint and prettier",
           "children": [],
@@ -738,6 +712,32 @@
             "topics": [
               "cloudflare-workers",
               "remix"
+            ]
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
+        },
+        {
+          "node_type": "item",
+          "title": "supa-fly-stack",
+          "description": "The Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.",
+            "homepage": null,
+            "id": 473100415,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2024-05-10T14:20:46Z",
+            "open_issues": 3,
+            "owner": "rphlmr",
+            "repo": "supa-fly-stack",
+            "stars": 328,
+            "topics": [
+              "flydotio",
+              "remix-run",
+              "remix-stack",
+              "supabase"
             ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -1195,7 +1195,7 @@
             "open_issues": 0,
             "owner": "dilums",
             "repo": "interactive-remix-routing",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "react",
               "remix",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:19:00.394Z",
+    "last_updated": "2026-10-04T05:52:14.301Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
