@@ -15,8 +15,8 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T00:27:12Z",
-            "open_issues": 511,
+            "last_commit": "2026-10-06T10:26:35Z",
+            "open_issues": 520,
             "owner": "getsentry",
             "repo": "sentry-javascript",
             "stars": 8752,
@@ -609,7 +609,7 @@
             "open_issues": 0,
             "owner": "dev-xo",
             "repo": "remix-saas",
-            "stars": 1450,
+            "stars": 1451,
             "topics": [
               "flydotio",
               "prisma",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:20:50.461Z",
+    "last_updated": "2026-10-06T10:32:56.603Z",
     "original_repository_info": {
       "archived": false,
       "description": null,

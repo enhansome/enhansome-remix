@@ -14,7 +14,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Packages
 
-* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,752 | 🐛 511 | 🌐 TypeScript | 📅 2026-10-06 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
+* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,752 | 🐛 520 | 🌐 TypeScript | 📅 2026-10-06 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
 * [remix-utils](https://github.com/sergiodxa/remix-utils) ⭐ 2,364 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-01 - A set of utility functions and types to use with Remix.run
 * [remix-auth](https://github.com/sergiodxa/remix-auth) ⭐ 2,201 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-05 - Simple Authentication for Remix
 * [remix-validated-form](https://github.com/airjp73/remix-validated-form) ⭐ 968 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-07 - A ValidatedForm component and helpers for easy client and server side form validation.
@@ -41,7 +41,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Stacks
 
-* [Stripe Stack](https://github.com/dev-xo/stripe-stack) ⭐ 1,450 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01 - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM. Deploys to Fly.io
+* [Stripe Stack](https://github.com/dev-xo/stripe-stack) ⭐ 1,451 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01 - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM. Deploys to Fly.io
 * [indie-stack](https://github.com/remix-run/indie-stack) ⚠️ Archived - The Indie Stack: Deployed to a long-running Node.js server with a persistent SQLite database. This stack is great for websites with dynamic data that you control (blogs, marketing, content sites). It's also a perfect, low-complexity bootstrap for MVPs, prototypes, and proof-of-concepts that can later be updated to the Blues stack easily.
 * [blues-stack](https://github.com/remix-run/blues-stack) ⚠️ Archived - The Blues Stack: Deployed to the edge (distributed) with a long-running Node.js server and PostgreSQL database. Intended for large and fast production-grade applications serving millions of users.
 * [grunge-stack](https://github.com/remix-run/grunge-stack) ⚠️ Archived - The Grunge Stack: Deployed to a serverless function running Node.js with DynamoDB for persistence. Intended for folks who want to deploy a production-grade application on AWS infrastructure serving millions of users.
