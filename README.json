@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T05:57:14Z",
-            "open_issues": 501,
+            "last_commit": "2026-10-09T05:49:44Z",
+            "open_issues": 495,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8754,
+            "stars": 8755,
             "topics": [
               "angular",
               "crash-reporting",
@@ -477,30 +477,6 @@
         },
         {
           "node_type": "item",
-          "title": "remix-middleware",
-          "description": "An express-like middleware system for remix loaders and actions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "express-like middleware system for your remix loaders and actions",
-            "homepage": null,
-            "id": 449932254,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2022-02-13T21:02:04Z",
-            "open_issues": 0,
-            "owner": "neurosnap",
-            "repo": "remix-middleware",
-            "stars": 36,
-            "topics": [
-              "remix",
-              "remix-run"
-            ]
-          },
-          "first_seen": "2026-08-28T11:23:33.693Z"
-        },
-        {
-          "node_type": "item",
           "title": "@aeorank/remix",
           "description": "Scores your Remix app's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.",
           "children": [],
@@ -511,7 +487,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T14:43:45Z",
+            "last_commit": "2026-10-08T14:45:38Z",
             "open_issues": 8,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -935,7 +911,7 @@
             "id": 523243044,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-07T17:57:32Z",
+            "last_commit": "2026-10-08T14:29:16Z",
             "open_issues": 14,
             "owner": "tdsoftpl",
             "repo": "cool-stack",
@@ -1161,8 +1137,8 @@
             "id": 320393623,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T00:04:49Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-08T15:47:40Z",
+            "open_issues": 4,
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
             "stars": 2497,
@@ -1244,7 +1220,7 @@
             "id": 539599406,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T14:54:12Z",
+            "last_commit": "2026-10-08T16:42:49Z",
             "open_issues": 22,
             "owner": "kineticio",
             "repo": "runnable",
@@ -1416,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T06:03:57.337Z",
+    "last_updated": "2026-10-09T06:08:34.787Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
