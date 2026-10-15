@@ -15,8 +15,8 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T04:03:03Z",
-            "open_issues": 489,
+            "last_commit": "2026-10-15T00:10:05Z",
+            "open_issues": 487,
             "owner": "getsentry",
             "repo": "sentry-javascript",
             "stars": 8759,
@@ -77,11 +77,11 @@
             "id": 388624643,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T23:34:01Z",
+            "last_commit": "2026-10-14T09:30:22Z",
             "open_issues": 3,
             "owner": "sergiodxa",
             "repo": "remix-auth",
-            "stars": 2202,
+            "stars": 2201,
             "topics": [
               "auth",
               "auth0",
@@ -186,40 +186,6 @@
         },
         {
           "node_type": "item",
-          "title": "remix-forms",
-          "description": "Magically create forms + actions in Remix",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Full-stack forms for React Router",
-            "homepage": "https://remix-forms.seasoned.cc",
-            "id": 463116412,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-04-15T03:02:28Z",
-            "open_issues": 0,
-            "owner": "seasonedcc",
-            "repo": "remix-forms",
-            "stars": 514,
-            "topics": [
-              "form",
-              "forms",
-              "react-hook-form",
-              "react-router",
-              "react-router-dom",
-              "react-router-dom-v6",
-              "react-router-v6",
-              "remix",
-              "remix-run",
-              "type-safety",
-              "typescript",
-              "zod"
-            ]
-          },
-          "first_seen": "2026-08-28T11:23:33.693Z"
-        },
-        {
-          "node_type": "item",
           "title": "remix-routes",
           "description": "Typesafe routing for your Remix apps.",
           "children": [],
@@ -239,6 +205,40 @@
               "react-router",
               "remix",
               "typescript"
+            ]
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
+        },
+        {
+          "node_type": "item",
+          "title": "remix-forms",
+          "description": "Magically create forms + actions in Remix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Full-stack forms for React Router",
+            "homepage": "https://remix-forms.seasoned.cc",
+            "id": 463116412,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-04-15T03:02:28Z",
+            "open_issues": 0,
+            "owner": "seasonedcc",
+            "repo": "remix-forms",
+            "stars": 513,
+            "topics": [
+              "form",
+              "forms",
+              "react-hook-form",
+              "react-router",
+              "react-router-dom",
+              "react-router-dom-v6",
+              "react-router-v6",
+              "remix",
+              "remix-run",
+              "type-safety",
+              "typescript",
+              "zod"
             ]
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -285,7 +285,7 @@
             "open_issues": 20,
             "owner": "kiliman",
             "repo": "remix-params-helper",
-            "stars": 247,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -389,27 +389,6 @@
         },
         {
           "node_type": "item",
-          "title": "remix-tailwind",
-          "description": "Use TailwindCSS with Remix without an extra build step",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Use TailwindCSS with Remix without an extra build step!",
-            "homepage": null,
-            "id": 431215247,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2024-03-15T20:24:37Z",
-            "open_issues": 2,
-            "owner": "itsMapleLeaf",
-            "repo": "remix-tailwind",
-            "stars": 83,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T11:23:33.693Z"
-        },
-        {
-          "node_type": "item",
           "title": "superjson-remix",
           "description": "A solution for Remix that allows you to send binary data from your loader to your React client app",
           "children": [],
@@ -425,6 +404,27 @@
             "owner": "donavon",
             "repo": "superjson-remix",
             "stars": 83,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
+        },
+        {
+          "node_type": "item",
+          "title": "remix-tailwind",
+          "description": "Use TailwindCSS with Remix without an extra build step",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Use TailwindCSS with Remix without an extra build step!",
+            "homepage": null,
+            "id": 431215247,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2024-03-15T20:24:37Z",
+            "open_issues": 2,
+            "owner": "itsMapleLeaf",
+            "repo": "remix-tailwind",
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -487,11 +487,11 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:48:07Z",
+            "last_commit": "2026-10-14T14:41:41Z",
             "open_issues": 8,
             "owner": "vinpatel",
             "repo": "aeorank",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "aeo",
               "ai-optimization",
@@ -585,7 +585,7 @@
             "open_issues": 0,
             "owner": "dev-xo",
             "repo": "remix-saas",
-            "stars": 1453,
+            "stars": 1452,
             "topics": [
               "flydotio",
               "prisma",
@@ -911,7 +911,7 @@
             "id": 523243044,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-13T19:02:57Z",
+            "last_commit": "2026-10-14T18:48:46Z",
             "open_issues": 14,
             "owner": "tdsoftpl",
             "repo": "cool-stack",
@@ -1141,7 +1141,7 @@
             "open_issues": 4,
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
-            "stars": 2499,
+            "stars": 2500,
             "topics": [
               "kentcdodds",
               "oss",
@@ -1220,7 +1220,7 @@
             "id": 539599406,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T16:59:08Z",
+            "last_commit": "2026-10-14T18:29:48Z",
             "open_issues": 22,
             "owner": "kineticio",
             "repo": "runnable",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T04:53:43.738Z",
+    "last_updated": "2026-10-15T04:38:48.966Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
