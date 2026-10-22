@@ -14,9 +14,9 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Packages
 
-* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,762 | 🐛 538 | 🌐 TypeScript | 📅 2026-10-21 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
-* [remix-utils](https://github.com/sergiodxa/remix-utils) ⭐ 2,364 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-20 - A set of utility functions and types to use with Remix.run
-* [remix-auth](https://github.com/sergiodxa/remix-auth) ⭐ 2,201 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-19 - Simple Authentication for Remix
+* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,763 | 🐛 536 | 🌐 TypeScript | 📅 2026-10-22 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
+* [remix-utils](https://github.com/sergiodxa/remix-utils) ⭐ 2,364 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-22 - A set of utility functions and types to use with Remix.run
+* [remix-auth](https://github.com/sergiodxa/remix-auth) ⭐ 2,201 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-22 - Simple Authentication for Remix
 * [remix-validated-form](https://github.com/airjp73/remix-validated-form) ⭐ 968 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-15 - A ValidatedForm component and helpers for easy client and server side form validation.
 * [domain-functions](https://github.com/seasonedcc/domain-functions/) ⭐ 743 | 🐛 4 | 🌐 TypeScript | 📅 2025-05-30 - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
 * [remix-i18next](https://github.com/sergiodxa/remix-i18next) ⭐ 714 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-19 - The easiest way to translate your Remix apps
@@ -72,7 +72,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 * [kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) ⭐ 2,501 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-20
 * [Interactive Remix Routing](https://github.com/dilums/interactive-remix-routing) ⭐ 101 | 🐛 0 | 🌐 TypeScript | 📅 2023-10-11
 * [sergiodxa/personal-site](https://github.com/sergiodxa/personal-site) ⚠️ Archived
-* [Runnable](https://github.com/kineticio/runnable) ⭐ 88 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-20 - Low-code admin workflows, built on Remix
+* [Runnable](https://github.com/kineticio/runnable) ⭐ 88 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-21 - Low-code admin workflows, built on Remix
 * [realworld-remix.run](https://github.com/BenoitAverty/realworld-remix.run) ⭐ 60 | 🐛 11 | 🌐 TypeScript | 📅 2022-02-16
 * [snkrs](https://github.com/mcansh/snkrs) ⭐ 36 | 🐛 11 | 🌐 TypeScript | 📅 2023-11-26
 * [sergiodxa/collected-remix](https://github.com/sergiodxa/collected-remix) ⭐ 12 | 🐛 6 | 🌐 TypeScript | 📅 2023-02-04
@@ -144,4 +144,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
