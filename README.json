@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T03:25:10Z",
-            "open_issues": 456,
+            "last_commit": "2026-10-31T03:43:26Z",
+            "open_issues": 446,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8769,
+            "stars": 8771,
             "topics": [
               "angular",
               "crash-reporting",
@@ -60,7 +60,7 @@
             "open_issues": 26,
             "owner": "sergiodxa",
             "repo": "remix-utils",
-            "stars": 2364,
+            "stars": 2363,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -81,7 +81,7 @@
             "open_issues": 4,
             "owner": "sergiodxa",
             "repo": "remix-auth",
-            "stars": 2201,
+            "stars": 2200,
             "topics": [
               "auth",
               "auth0",
@@ -126,8 +126,8 @@
             "id": 469882687,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2025-05-30T00:59:30Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-30T13:49:31Z",
+            "open_issues": 5,
             "owner": "seasonedcc",
             "repo": "composable-functions",
             "stars": 743,
@@ -151,7 +151,7 @@
             "open_issues": 2,
             "owner": "sergiodxa",
             "repo": "remix-i18next",
-            "stars": 714,
+            "stars": 713,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "seasonedcc",
             "repo": "remix-forms",
-            "stars": 513,
+            "stars": 512,
             "topics": [
               "form",
               "forms",
@@ -285,7 +285,7 @@
             "open_issues": 20,
             "owner": "kiliman",
             "repo": "remix-params-helper",
-            "stars": 246,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -487,7 +487,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T14:36:32Z",
+            "last_commit": "2026-10-30T14:36:39Z",
             "open_issues": 8,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -614,7 +614,7 @@
             "open_issues": 17,
             "owner": "remix-run",
             "repo": "indie-stack",
-            "stars": 1141,
+            "stars": 1140,
             "topics": [
               "remix-stack"
             ]
@@ -637,7 +637,7 @@
             "open_issues": 11,
             "owner": "remix-run",
             "repo": "blues-stack",
-            "stars": 971,
+            "stars": 970,
             "topics": [
               "remix-stack"
             ]
@@ -798,30 +798,6 @@
         },
         {
           "node_type": "item",
-          "title": "remix-edgedb",
-          "description": "Remix ft. EdgeDB, Tailwind, Fly, and cookie-based authorization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Remix stack for EdgeDB-backed applications",
-            "homepage": null,
-            "id": 482066451,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2022-08-03T03:32:00Z",
-            "open_issues": 0,
-            "owner": "geldata",
-            "repo": "remix",
-            "stars": 79,
-            "topics": [
-              "edgedb",
-              "remix-stack"
-            ]
-          },
-          "first_seen": "2026-08-28T11:23:33.693Z"
-        },
-        {
-          "node_type": "item",
           "title": "azure-remix-stack",
           "description": "A remix stack template for running a remix app on Azure",
           "children": [],
@@ -846,6 +822,30 @@
         },
         {
           "node_type": "item",
+          "title": "remix-edgedb",
+          "description": "Remix ft. EdgeDB, Tailwind, Fly, and cookie-based authorization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Remix stack for EdgeDB-backed applications",
+            "homepage": null,
+            "id": 482066451,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2022-08-03T03:32:00Z",
+            "open_issues": 0,
+            "owner": "geldata",
+            "repo": "remix",
+            "stars": 78,
+            "topics": [
+              "edgedb",
+              "remix-stack"
+            ]
+          },
+          "first_seen": "2026-08-28T11:23:33.693Z"
+        },
+        {
+          "node_type": "item",
           "title": "remix-chop-suey-stack",
           "description": "Remix+EdgeDB+Tailwind+Fly.io=🖤",
           "children": [],
@@ -860,7 +860,7 @@
             "open_issues": 0,
             "owner": "jaykaycodes",
             "repo": "remix-chop-suey-stack",
-            "stars": 71,
+            "stars": 70,
             "topics": [
               "edgedb",
               "flyio",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T05:48:43.547Z",
+    "last_updated": "2026-10-31T05:40:30.115Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
