@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T03:22:37Z",
-            "open_issues": 452,
+            "last_commit": "2026-11-04T23:41:28Z",
+            "open_issues": 462,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8770,
+            "stars": 8771,
             "topics": [
               "angular",
               "crash-reporting",
@@ -151,7 +151,7 @@
             "open_issues": 2,
             "owner": "sergiodxa",
             "repo": "remix-i18next",
-            "stars": 712,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -487,7 +487,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T20:35:29Z",
+            "last_commit": "2026-11-04T20:53:21Z",
             "open_issues": 9,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -1141,7 +1141,7 @@
             "open_issues": 4,
             "owner": "kentcdodds",
             "repo": "kentcdodds.com",
-            "stars": 2502,
+            "stars": 2503,
             "topics": [
               "kentcdodds",
               "oss",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:21:44.178Z",
+    "last_updated": "2026-11-05T06:45:51.585Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
