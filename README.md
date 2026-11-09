@@ -14,12 +14,12 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Packages
 
-* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,772 | 🐛 460 | 🌐 TypeScript | 📅 2026-11-07 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
+* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,773 | 🐛 463 | 🌐 TypeScript | 📅 2026-11-09 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
 * [remix-utils](https://github.com/sergiodxa/remix-utils) ⭐ 2,361 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-26 - A set of utility functions and types to use with Remix.run
 * [remix-auth](https://github.com/sergiodxa/remix-auth) ⭐ 2,198 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-02 - Simple Authentication for Remix
 * [remix-validated-form](https://github.com/airjp73/remix-validated-form) ⭐ 967 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-15 - A ValidatedForm component and helpers for easy client and server side form validation.
 * [domain-functions](https://github.com/seasonedcc/domain-functions/) ⭐ 743 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-31 - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
-* [remix-i18next](https://github.com/sergiodxa/remix-i18next) ⭐ 710 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-02 - The easiest way to translate your Remix apps
+* [remix-i18next](https://github.com/sergiodxa/remix-i18next) ⭐ 710 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-09 - The easiest way to translate your Remix apps
 * [remix-pwa](https://github.com/ShafSpecs/remix-pwa) ⭐ 609 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-11 - A package to integrate PWA features into Remix
 * [remix-routes](https://github.com/yesmeck/remix-routes) ⭐ 512 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-19 - Typesafe routing for your Remix apps.
 * [remix-forms](https://github.com/seasonedcc/remix-forms) ⭐ 512 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-15 - Magically create forms + actions in Remix
@@ -33,7 +33,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 * [superjson-remix](https://github.com/donavon/superjson-remix) ⭐ 83 | 🐛 3 | 🌐 TypeScript | 📅 2023-02-04 - A solution for Remix that allows you to send binary data from your loader to your React client app
 * [remix-etag](https://github.com/donavon/remix-etag) ⭐ 68 | 🐛 2 | 🌐 HTML | 📅 2023-01-23 - Makes adding an ETag header to a response easy
 * [remix-crash](https://github.com/xstevenyung/remix-crash) ⚠️ Archived - Get better insight on why your Remix app crashed during development 💥
-* [@aeorank/remix](https://github.com/vinpatel/aeorank/tree/main/packages/remix) ⭐ 19 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-07 - Scores your Remix app's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/remix](https://github.com/vinpatel/aeorank/tree/main/packages/remix) ⭐ 19 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-08 - Scores your Remix app's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [remix-strong-routes](https://github.com/tatemz/remix-strong-routes) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2024-03-04 - Strongly typed route exports.
 * [remix-progressbar](https://github.com/dev-afzalansari/remix-progressbar) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-21 - Progress Bar for Remix Applications.
 * [remix-middleware](https://github.com/neurosnap/remix-middleware) - An express-like middleware system for remix loaders and actions
@@ -144,4 +144,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
