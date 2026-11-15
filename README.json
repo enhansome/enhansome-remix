@@ -15,11 +15,11 @@
             "id": 3328572,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T04:56:26Z",
-            "open_issues": 436,
+            "last_commit": "2026-11-14T23:07:14Z",
+            "open_issues": 443,
             "owner": "getsentry",
             "repo": "sentry-javascript",
-            "stars": 8774,
+            "stars": 8776,
             "topics": [
               "angular",
               "crash-reporting",
@@ -60,7 +60,7 @@
             "open_issues": 28,
             "owner": "sergiodxa",
             "repo": "remix-utils",
-            "stars": 2362,
+            "stars": 2361,
             "topics": []
           },
           "first_seen": "2026-08-28T11:23:33.693Z"
@@ -78,7 +78,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-09T23:39:20Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "sergiodxa",
             "repo": "remix-auth",
             "stars": 2198,
@@ -197,7 +197,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-19T12:22:19Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "yesmeck",
             "repo": "safe-routes",
             "stars": 513,
@@ -487,11 +487,11 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T20:57:33Z",
+            "last_commit": "2026-11-14T19:24:29Z",
             "open_issues": 9,
             "owner": "vinpatel",
             "repo": "aeorank",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "aeo",
               "ai-optimization",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:22:18.020Z",
+    "last_updated": "2026-11-15T06:31:15.543Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
