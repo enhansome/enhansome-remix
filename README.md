@@ -14,12 +14,12 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Packages
 
-* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,782 | 🐛 391 | 🌐 TypeScript | 📅 2026-11-24 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
+* [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) ⭐ 8,782 | 🐛 384 | 🌐 TypeScript | 📅 2026-11-25 - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
 * [remix-utils](https://github.com/sergiodxa/remix-utils) ⭐ 2,361 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-26 - A set of utility functions and types to use with Remix.run
 * [remix-auth](https://github.com/sergiodxa/remix-auth) ⭐ 2,200 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-23 - Simple Authentication for Remix
 * [remix-validated-form](https://github.com/airjp73/remix-validated-form) ⭐ 967 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-15 - A ValidatedForm component and helpers for easy client and server side form validation.
 * [domain-functions](https://github.com/seasonedcc/domain-functions/) ⭐ 743 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-31 - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
-* [remix-i18next](https://github.com/sergiodxa/remix-i18next) ⭐ 710 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-23 - The easiest way to translate your Remix apps
+* [remix-i18next](https://github.com/sergiodxa/remix-i18next) ⭐ 711 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-23 - The easiest way to translate your Remix apps
 * [remix-pwa](https://github.com/ShafSpecs/remix-pwa) ⭐ 609 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-11 - A package to integrate PWA features into Remix
 * [remix-routes](https://github.com/yesmeck/remix-routes) ⭐ 512 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-19 - Typesafe routing for your Remix apps.
 * [remix-forms](https://github.com/seasonedcc/remix-forms) ⭐ 512 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-15 - Magically create forms + actions in Remix
@@ -70,9 +70,9 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 ## Example Apps
 
 * [kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) ⭐ 2,500 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-02
-* [Interactive Remix Routing](https://github.com/dilums/interactive-remix-routing) ⭐ 109 | 🐛 0 | 🌐 TypeScript | 📅 2023-10-11
+* [Interactive Remix Routing](https://github.com/dilums/interactive-remix-routing) ⭐ 111 | 🐛 0 | 🌐 TypeScript | 📅 2023-10-11
 * [sergiodxa/personal-site](https://github.com/sergiodxa/personal-site) ⚠️ Archived
-* [Runnable](https://github.com/kineticio/runnable) ⭐ 88 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-23 - Low-code admin workflows, built on Remix
+* [Runnable](https://github.com/kineticio/runnable) ⭐ 88 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-25 - Low-code admin workflows, built on Remix
 * [realworld-remix.run](https://github.com/BenoitAverty/realworld-remix.run) ⭐ 60 | 🐛 11 | 🌐 TypeScript | 📅 2022-02-16
 * [snkrs](https://github.com/mcansh/snkrs) ⭐ 36 | 🐛 11 | 🌐 TypeScript | 📅 2023-11-26
 * [sergiodxa/collected-remix](https://github.com/sergiodxa/collected-remix) ⭐ 12 | 🐛 6 | 🌐 TypeScript | 📅 2023-02-04
@@ -145,4 +145,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
